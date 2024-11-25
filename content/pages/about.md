@@ -27,7 +27,7 @@ sections:
           - pr-16
         justifyContent: center
         margin:
-          - ml-20
+          - ml-0
       subtitle:
         textAlign: center
 slug: About
