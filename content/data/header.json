@@ -69,7 +69,7 @@
         },
         {
             "type": "SubNav",
-            "label": "Dropdown",
+            "label": "Events and",
             "altText": "Dropdown",
             "links": [
                 {
