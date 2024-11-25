@@ -27,7 +27,7 @@ sections:
           - ml-0
       subtitle:
         textAlign: center
-    elementId: person
+    elementId: ''
 slug: About
 seo:
   type: Seo
