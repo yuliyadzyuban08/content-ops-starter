@@ -23,7 +23,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/082824_YULIYADZYUBAN-02.jpg
+      url: /images/image_67548929 (1).JPG
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
