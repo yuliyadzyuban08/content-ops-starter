@@ -30,7 +30,7 @@ sections:
       styles:
         self:
           padding:
-            - pt-5
+            - pt-0
     elementId: ''
     colors: bg-light-fg-dark
     styles:
