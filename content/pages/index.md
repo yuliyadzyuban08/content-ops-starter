@@ -14,7 +14,7 @@ sections:
       design solutions for thermal comfort improvement in cities.
     actions:
       - label: Explore Workshop Events
-        altText: Explore Research
+        altText: Explore Workshop Events
         url: /
         showIcon: false
         icon: arrowRight
