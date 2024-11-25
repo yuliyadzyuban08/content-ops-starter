@@ -28,7 +28,7 @@
         },
         {
             "type": "SubNav",
-            "label": "Dropdown",
+            "label": "",
             "altText": "Dropdown",
             "links": [
                 {
