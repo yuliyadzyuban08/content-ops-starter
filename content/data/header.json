@@ -79,7 +79,7 @@
             "padding": [
                 "pt-3",
                 "pb-3",
-                "pr-3",
+                "pr-0",
                 "pl-3"
             ],
             "margin": [
