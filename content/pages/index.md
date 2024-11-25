@@ -8,10 +8,11 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: "Dr.\_Yuliya Dzyuban"
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Focusing on enhancing thermal comfort in cities through a mixed method
+      approach to track, map, and analyze heat exposure, and develop urban
+      design solutions for thermal comfort improvement in cities
+
     actions:
       - label: Get started
         altText: ''
