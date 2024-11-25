@@ -5,7 +5,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: Bio
+      text: About
       color: text-dark
       styles:
         self:
