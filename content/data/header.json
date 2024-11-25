@@ -69,7 +69,7 @@
         },
         {
             "type": "Button",
-            "label": "Get started",
+            "label": "",
             "altText": "",
             "url": "Contact",
             "showIcon": false,
