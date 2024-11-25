@@ -14,7 +14,7 @@ sections:
       design solutions for thermal comfort improvement in cities.
     actions:
       - label: Research
-        altText: Research
+        altText: Explore Research
         url: /
         showIcon: false
         icon: arrowRight
