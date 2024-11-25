@@ -13,7 +13,6 @@ sections:
     people:
       - content/data/person1.json
       - content/data/person3.json
-      - content/data/person4.json
       - content/data/person5.json
       - content/data/person6.json
     actions: []
