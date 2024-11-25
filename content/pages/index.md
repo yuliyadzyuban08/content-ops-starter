@@ -13,7 +13,7 @@ sections:
       approach to track, map, and analyze heat exposure, and develop urban
       design solutions for thermal comfort improvement in cities.
     actions:
-      - label: Research
+      - label: Explore Research
         altText: Explore Research
         url: /
         showIcon: false
