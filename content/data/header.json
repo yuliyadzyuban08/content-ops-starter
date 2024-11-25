@@ -69,7 +69,7 @@
         },
         {
             "type": "Button",
-            "label": "",
+            "label": "Contact",
             "altText": "",
             "url": "Contact",
             "showIcon": false,
