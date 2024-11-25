@@ -8,11 +8,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: "Dr.\_Yuliya Dzyuban"
-    text: >+
+    text: >
       Focusing on enhancing thermal comfort in cities through a mixed method
       approach to track, map, and analyze heat exposure, and develop urban
-      design solutions for thermal comfort improvement in cities
-
+      design solutions for thermal comfort improvement in cities.
     actions:
       - label: Get started
         altText: ''
