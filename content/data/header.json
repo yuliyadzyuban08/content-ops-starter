@@ -29,7 +29,7 @@
         {
             "type": "SubNav",
             "label": "Publications",
-            "altText": "Dropdown",
+            "altText": "Publications",
             "links": [
                 {
                     "type": "Link",
