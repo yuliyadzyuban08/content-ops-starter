@@ -5,7 +5,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: About
+      text: Yuliya Dzyuban
       color: text-dark
       styles:
         self:
