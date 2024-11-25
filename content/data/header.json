@@ -28,7 +28,7 @@
         },
         {
             "type": "SubNav",
-            "label": "publications",
+            "label": "Publications",
             "altText": "Dropdown",
             "links": [
                 {
