@@ -31,6 +31,8 @@ sections:
         self:
           padding:
             - pt-0
+          margin:
+            - mt-11
     elementId: ''
     colors: bg-light-fg-dark
     styles:
