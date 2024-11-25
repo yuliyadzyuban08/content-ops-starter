@@ -32,7 +32,7 @@ sections:
           padding:
             - pt-0
           margin:
-            - mt-11
+            - mt-0
     elementId: ''
     colors: bg-light-fg-dark
     styles:
