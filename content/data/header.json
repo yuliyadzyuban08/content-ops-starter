@@ -69,7 +69,7 @@
         },
         {
             "type": "SubNav",
-            "label": "Dropdown",
+            "label": "Workshop Events",
             "altText": "Dropdown",
             "links": [
                 {
