@@ -3,7 +3,7 @@ type: PageLayout
 title: About
 sections:
   - type: CarouselSection
-    subtitle: Dr. Yuliya Dzyuban
+    subtitle: ''
     items:
       - type: FeaturedItem
         title: ''
