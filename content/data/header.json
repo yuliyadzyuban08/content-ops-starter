@@ -28,8 +28,8 @@
         },
         {
             "type": "SubNav",
-            "label": "Publications",
-            "altText": "Publications",
+            "label": "Workshop Events",
+            "altText": "Workshop Events",
             "links": [
                 {
                     "type": "Link",
@@ -44,8 +44,8 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
-                    "altText": "",
+                    "label": "Workshop Events",
+                    "altText": "Workshop Events",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
@@ -69,8 +69,8 @@
         },
         {
             "type": "SubNav",
-            "label": "Workshop Events",
-            "altText": "Workshop Events",
+            "label": "Publications",
+            "altText": "Publications",
             "links": [
                 {
                     "type": "Link",
@@ -85,8 +85,8 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Workshop Events",
-                    "altText": "Workshop Events",
+                    "label": "Dropdown item",
+                    "altText": "",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
