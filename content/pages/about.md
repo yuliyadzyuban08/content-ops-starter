@@ -20,7 +20,7 @@ sections:
             self:
               borderRadius: full
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
