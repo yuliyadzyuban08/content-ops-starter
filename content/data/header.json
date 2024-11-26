@@ -86,7 +86,7 @@
                 {
                     "type": "Link",
                     "label": "Workshop Events",
-                    "altText": "",
+                    "altText": "Workshop Events",
                     "url": "/",
                     "showIcon": false,
                     "icon": "arrowRight",
