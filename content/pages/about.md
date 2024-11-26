@@ -69,7 +69,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-        fontWeight: 400
+        fontWeight: 700
 slug: About
 seo:
   type: Seo
