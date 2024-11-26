@@ -3,7 +3,7 @@
         {
             "label": "Home",
             "altText": "home",
-            "url": "/blog",
+            "url": "/home",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
