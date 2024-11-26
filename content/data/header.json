@@ -70,7 +70,7 @@
         {
             "type": "SubNav",
             "label": "Workshop Events",
-            "altText": "Dropdown",
+            "altText": "Workshop Events",
             "links": [
                 {
                     "type": "Link",
