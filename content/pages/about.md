@@ -2,33 +2,6 @@
 type: PageLayout
 title: About
 sections:
-  - type: FeaturedPeopleSection
-    title:
-      type: TitleBlock
-      text: Yuliya Dzyuban
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    people:
-      - content/data/person1.json
-      - content/data/n.json
-    actions: []
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-        margin:
-          - ml-0
-      subtitle:
-        textAlign: center
-    elementId: ''
   - type: CarouselSection
     subtitle: This is a subtitle
     items:
