@@ -1,17 +1,17 @@
 {
     "primaryLinks": [
         {
-            "label": "About",
-            "url": "/About",
+            "label": "Blog",
+            "altText": "Blog",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
-            "url": "/blog",
+            "label": "About",
+            "url": "/About",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
