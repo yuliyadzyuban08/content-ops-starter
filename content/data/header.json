@@ -68,17 +68,6 @@
             "labelStyle": "secondary"
         },
         {
-            "type": "Button",
-            "label": "Contact",
-            "altText": "",
-            "url": "Contact",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
             "type": "SubNav",
             "label": "Publications",
             "altText": "Publications",
@@ -118,6 +107,17 @@
                 }
             ],
             "labelStyle": "secondary"
+        },
+        {
+            "type": "Button",
+            "label": "Contact",
+            "altText": "",
+            "url": "Contact",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         }
     ],
     "secondaryLinks": [],
