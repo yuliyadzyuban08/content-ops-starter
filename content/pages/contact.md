@@ -57,7 +57,7 @@ sections:
           borderRadius: large
     badge:
       type: Badge
-      label: Contact Us
+      label: Contact Information
       color: text-primary
     colors: bg-light-fg-dark
 slug: Contact
