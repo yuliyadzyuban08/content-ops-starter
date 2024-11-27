@@ -7,7 +7,7 @@ sections:
       - type: FeaturedItem
         title: Dr. Yuliya Dzyuban
         tagline: ''
-        subtitle: Sustainable Environmental Systems; Assistant Professor
+        subtitle: ' Assistant Professor of Sustainable Environmental Systems, Pratt Institute'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
