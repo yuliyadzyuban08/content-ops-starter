@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'Email : ydzyuban@pratt.edu'
+      text: ''
       color: text-dark
     subtitle: 'Email : ydzyuban@pratt.edu'
     text: ''
