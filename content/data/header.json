@@ -111,7 +111,7 @@
         {
             "type": "Button",
             "label": "Contact",
-            "altText": "",
+            "altText": "Contact",
             "url": "Contact",
             "showIcon": false,
             "icon": "arrowRight",
