@@ -38,7 +38,7 @@ sections:
         textAlign: center
     badge:
       type: Badge
-      label: / Contact
+      label: /Contact
       color: text-primary
 slug: About
 seo:
