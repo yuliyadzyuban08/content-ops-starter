@@ -36,10 +36,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    badge:
-      type: Badge
-      label: /Contact
-      color: text-primary
 slug: About
 seo:
   type: Seo
