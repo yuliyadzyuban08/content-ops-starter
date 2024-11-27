@@ -1,27 +1,25 @@
 {
-    "logo": {
-        "altText": "Logo dark",
-        "styles": {
-            "self": {
-                "margin": [
-                    "mr-3"
-                ]
-            }
-        },
-        "type": "ImageBlock"
-    },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "Home",
+            "altText": "home",
+            "url": "/home",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Blog",
-            "altText": "Blog",
+            "label": "About",
+            "url": "/About",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "blog",
+            "altText": "blog",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -29,67 +27,117 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Dropdown",
-            "altText": "Dropdown",
+            "type": "SubNav",
+            "label": "Workshop Events",
+            "altText": "Workshop Events",
             "links": [
                 {
+                    "type": "Link",
                     "label": "Dropdown item",
+                    "altText": "",
                     "url": "/",
+                    "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "elementId": ""
                 },
                 {
-                    "label": "Dropdown item",
+                    "type": "Link",
+                    "label": "Workshop Events",
+                    "altText": "Workshop Events",
                     "url": "/",
+                    "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "elementId": ""
                 },
                 {
+                    "type": "Link",
                     "label": "Dropdown item",
+                    "altText": "",
                     "url": "/",
+                    "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "type": "Link"
+                    "elementId": ""
                 }
             ],
-            "labelStyle": "secondary",
-            "type": "SubNav"
-        }
-    ],
-    "secondaryLinks": [
+            "labelStyle": "secondary"
+        },
         {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "/",
+            "type": "SubNav",
+            "label": "Publications",
+            "altText": "Publications",
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "Dropdown item",
+                    "altText": "",
+                    "url": "/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Dropdown item",
+                    "altText": "",
+                    "url": "/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "Dropdown item",
+                    "altText": "",
+                    "url": "/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
+            "labelStyle": "secondary"
+        },
+        {
+            "type": "Button",
+            "label": "Contact",
+            "altText": "Contact",
+            "url": "Contact",
+            "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Button"
-        },
-        {
-            "label": "Log in",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Button"
+            "elementId": ""
         }
     ],
-    "variant": "logo-left-primary-nav-centered",
+    "secondaryLinks": [],
+    "variant": "logo-left-primary-nav-right",
     "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "type": "Header",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-3",
+                "pb-3",
+                "pr-0",
+                "pl-0"
+            ],
+            "margin": [
+                "mt-6",
+                "mb-6",
+                "mr-0",
+                "ml-0"
+            ]
+        }
+    }
 }
