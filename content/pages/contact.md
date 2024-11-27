@@ -8,7 +8,13 @@ sections:
       text: ''
       color: text-dark
     subtitle: 'Email : ydzyuban@pratt.edu'
-    text: ''
+    text: >+
+
+      I welcome your questions, collaboration inquiries, and feedback! Whether
+      you’re a student, researcher, or professional interested in sustainable
+      environmental systems, I am happy to connect and discuss ideas, projects,
+      or opportunities.
+
     actions: []
     media:
       type: FormBlock
