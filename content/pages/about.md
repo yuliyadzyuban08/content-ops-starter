@@ -7,7 +7,7 @@ sections:
       - type: FeaturedItem
         title: Dr. Yuliya Dzyuban
         tagline: ''
-        subtitle: ''
+        subtitle: Sustainable Environmental Systems; Assistant Professor
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
