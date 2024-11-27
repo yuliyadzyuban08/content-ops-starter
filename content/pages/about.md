@@ -6,7 +6,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Dr. Yuliya Dzyuban
-        tagline: Feature 1
+        tagline: ''
         subtitle: Increase your reach
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
