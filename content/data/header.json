@@ -20,7 +20,7 @@
         {
             "label": "blog",
             "altText": "blog",
-            "url": "/careers",
+            "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
