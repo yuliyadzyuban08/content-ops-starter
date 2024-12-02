@@ -11,7 +11,7 @@
         },
         {
             "label": "Workshops",
-            "altText": "",
+            "altText": "Workshops",
             "url": "/Events",
             "icon": "arrowRight",
             "iconPosition": "right",
