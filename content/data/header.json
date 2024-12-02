@@ -29,13 +29,6 @@
         },
         {
             "type": "SubNav",
-            "label": "Workshop Events",
-            "altText": "Workshop Events",
-            "links": [],
-            "labelStyle": "primary"
-        },
-        {
-            "type": "SubNav",
             "label": "Publications",
             "altText": "Publications",
             "links": [
