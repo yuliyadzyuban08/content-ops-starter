@@ -2,7 +2,7 @@
     "primaryLinks": [
         {
             "label": "About",
-            "url": "/About",
+            "url": "/Home",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
