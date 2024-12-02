@@ -1,6 +1,6 @@
 ---
 title: Home
-slug: home
+slug: Events
 sections:
   - type: GenericSection
     title:
