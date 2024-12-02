@@ -28,17 +28,6 @@
             "type": "Link"
         },
         {
-            "type": "Button",
-            "label": "Contact",
-            "altText": "Contact",
-            "url": "Contact",
-            "showIcon": false,
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "elementId": ""
-        },
-        {
             "type": "Link",
             "label": "Research",
             "altText": "",
