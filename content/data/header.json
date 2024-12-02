@@ -1,17 +1,17 @@
 {
     "primaryLinks": [
         {
-            "label": "Events",
-            "altText": "Events",
-            "url": "/Events",
+            "label": "About",
+            "url": "/About",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "About",
-            "url": "/About",
+            "label": "Events",
+            "altText": "Events",
+            "url": "/Events",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
