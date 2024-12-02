@@ -30,7 +30,7 @@
         {
             "type": "Link",
             "label": "Teaching ",
-            "altText": "",
+            "altText": "Teaching ",
             "url": "/Research",
             "showIcon": false,
             "icon": "arrowRight",
