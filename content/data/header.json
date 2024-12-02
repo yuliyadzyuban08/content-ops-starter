@@ -20,7 +20,7 @@
         },
         {
             "label": "Research",
-            "altText": "blog",
+            "altText": "Research",
             "url": "/blog",
             "icon": "arrowRight",
             "iconPosition": "right",
