@@ -21,7 +21,7 @@
         {
             "label": "Research",
             "altText": "Research",
-            "url": "/blog",
+            "url": "/Research",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
