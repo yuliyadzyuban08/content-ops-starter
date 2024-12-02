@@ -3,7 +3,7 @@
         {
             "label": "Events",
             "altText": "home",
-            "url": "/home",
+            "url": "/Events",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
