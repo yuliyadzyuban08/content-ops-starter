@@ -12,7 +12,7 @@
         {
             "label": "Workshops",
             "altText": "Workshops",
-            "url": "/Events",
+            "url": "/Workshops",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
