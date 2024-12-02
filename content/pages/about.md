@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: About
+title: Home
 sections:
   - type: CarouselSection
     items:
