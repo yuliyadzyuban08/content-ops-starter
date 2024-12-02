@@ -52,7 +52,7 @@
         {
             "type": "Link",
             "label": "Publication",
-            "altText": "",
+            "altText": "Publication",
             "url": "/Publication",
             "showIcon": false,
             "icon": "arrowRight",
