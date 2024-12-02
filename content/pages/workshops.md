@@ -32,7 +32,7 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
-    subtitle: Workshops
+    subtitle: ''
 slug: Workshops
 isDraft: false
 seo:
