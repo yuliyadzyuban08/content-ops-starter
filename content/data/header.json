@@ -2,7 +2,7 @@
     "primaryLinks": [
         {
             "label": "Events",
-            "altText": "home",
+            "altText": "Events",
             "url": "/Events",
             "icon": "arrowRight",
             "iconPosition": "right",
