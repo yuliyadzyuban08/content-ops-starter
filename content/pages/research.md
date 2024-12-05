@@ -30,7 +30,7 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
-    subtitle: 'Research Area:'
+    subtitle: ''
 slug: Research
 isDraft: false
 seo:
