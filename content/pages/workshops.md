@@ -5,7 +5,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Workshops
+      text: Workshops & Events
       color: text-dark
       styles:
         self:
