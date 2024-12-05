@@ -10,7 +10,9 @@ sections:
       styles:
         self:
           textAlign: center
-    posts: []
+    posts:
+      - >-
+        content/pages/blog/microclimate-discovery:-pratt-environmental-awareness-walk.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
