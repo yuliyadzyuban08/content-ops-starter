@@ -98,10 +98,14 @@ styles:
   self:
     flexDirection: row
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+The Microclimate Discovery Environmental Walk, hosted by Yuliya Dzyuban, Melissa Ingaruca Moreno, and Kasturi Salvi during Pratt Climate Action Week in partnership with the Brooklyn Greenway initiative, aimed to focus on climate change's impact on both New York City's residents and ecosystems. This unique experience offered participants a chance to delve into the intricate world of urban microclimates, uncovering the hidden environmental dynamics near Pratt's campus neighborhood.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+What set this walk apart was its innovative approach: assigning each participant a specific role, be it a young boy, an old lady, a construction worker, or even a butterfly, a tree, or a squirrel. These roles provided diverse perspectives on the effects of microclimates, from human heat-related challenges to the vulnerabilities faced by local wildlife due to climate change. As we journeyed through the neighborhood, discussions and observations deepened our understanding of how microclimates shape daily life and well-being.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+The interactive nature of the walk fostered empathy and encouraged participants to reflect on the interconnectedness between humans and nature. It also sparked a call to action, inspiring advocacy for climate resilience and equity in solutions. This transformative experience went beyond traditional environmental education, emphasizing the urgent need for collective action in tackling climate change.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+At the walk's conclusion, a reflective session prompted participants to consider the implications of microclimates and brainstorm potential city-level solutions. This marked the first step toward creating a heat-sensitive city, where urban design accounts for the complexities of microclimates and climate change.
+
+
+
+
