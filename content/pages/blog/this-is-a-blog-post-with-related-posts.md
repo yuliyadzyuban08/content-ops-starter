@@ -1,7 +1,7 @@
 ---
 type: PostLayout
 title: 'Microclimate Discovery: Pratt Environmental Awareness Walk'
-date: ''
+date: '2022-06-06'
 author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
