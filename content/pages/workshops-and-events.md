@@ -30,7 +30,7 @@ sections:
           - pr-16
         justifyContent: center
     subtitle: ''
-slug: Workshops
+slug: Workshops & Events
 isDraft: false
 seo:
   type: Seo
