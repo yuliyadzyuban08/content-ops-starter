@@ -8,7 +8,7 @@ author: content/data/person1.json
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/image_67200769 (1).JPG
   altText: Thumbnail
   elementId: ''
   styles:
