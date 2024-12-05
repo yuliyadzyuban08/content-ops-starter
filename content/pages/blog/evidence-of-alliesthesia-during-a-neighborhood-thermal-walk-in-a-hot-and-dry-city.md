@@ -5,7 +5,19 @@ title: >-
   city
 date: '2022-10-10'
 author: content/data/person1.json
-excerpt: ''
+excerpt: >-
+  Designing cities for thermal comfort is an important priority in a warming and
+  urbanizing world. As temperatures in cities continue to break extreme heat
+  records, it is necessary to develop and test new approaches capable of
+  tracking human thermal sensations influenced by microclimate conditions,
+  complex urban geometries, and individual characteristics in dynamic settings.
+  Thermal walks are a promising novel research method to address this gap.
+  During a thermal walk in Phoenix, Arizona, USA, we examined relationships
+  between the built environment, microclimate, and subjective thermal judgments
+  across a downtown city neighborhood slated for redevelopment. Subjects
+  equipped with GPS devices participated in a 1-hour walk on a hot sunny day and
+  recorded their experience in a field guide. Microclimate measurements were
+  simultaneously collected using the mobile human-biometeorological instrument …
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
