@@ -12,6 +12,7 @@ sections:
           textAlign: center
     posts:
       - content/pages/blog/top-ten-lessons-we-learned.md
+      - content/pages/blog/workshop-and-events.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
