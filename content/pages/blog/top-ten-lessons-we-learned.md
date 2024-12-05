@@ -27,7 +27,7 @@ excerpt: >-
   first step toward creating a heat-sensitive city, where urban design accounts
   for the complexities of microclimates and climate change.
 featuredImage:
-  url: /images/image_67200769 (1).JPG
+  url: /images/IMG_3076l.jpg
   altText: Thumbnail
   type: ImageBlock
   styles:
