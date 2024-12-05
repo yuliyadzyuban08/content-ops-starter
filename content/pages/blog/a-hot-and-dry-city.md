@@ -96,9 +96,7 @@ bottomSections:
           borderWidth: 1
           borderRadius: large
     colors: bg-light-fg-dark
-slug: >-
-  Evidence of alliesthesia during a neighborhood thermal walk in a hot and dry
-  city
+slug: a hot and dry city
 isFeatured: false
 isDraft: false
 seo:
