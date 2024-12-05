@@ -10,7 +10,8 @@ sections:
       styles:
         self:
           textAlign: center
-    posts: []
+    posts:
+      - content/pages/blog/paper-1.md
     showThumbnail: false
     showExcerpt: true
     showDate: true
