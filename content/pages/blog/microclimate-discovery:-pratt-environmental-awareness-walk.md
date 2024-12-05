@@ -6,7 +6,7 @@ author: content/data/person1.json
 excerpt: ''
 featuredImage:
   type: ImageBlock
-  url: /images/abstract-feature1.svg
+  url: /images/IMG_3076l.jpg
   altText: Thumbnail
   elementId: ''
   styles:
