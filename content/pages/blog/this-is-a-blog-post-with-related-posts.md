@@ -2,7 +2,6 @@
 type: PostLayout
 title: ''
 date: '2024-04-06'
-author: content/data/person1.json
 excerpt: >-
   The Microclimate Discovery Environmental Walk, hosted by Yuliya Dzyuban,
   Melissa Ingaruca Moreno, and Kasturi Salvi during Pratt Climate Action Week in
