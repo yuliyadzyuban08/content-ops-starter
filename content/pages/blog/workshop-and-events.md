@@ -3,7 +3,7 @@ type: PostLayout
 title: >-
   Microclimate Discovery: Pratt Environmental Awareness Walk for Sustainable
   Summer 
-date: '0020-07-25'
+date: '2024-07-25'
 author: content/data/person1.json
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
