@@ -10,7 +10,9 @@ sections:
       styles:
         self:
           textAlign: center
-    posts: []
+    posts:
+      - >-
+        content/pages/blog/evidence-of-alliesthesia-during-a-neighborhood-thermal-walk-in-a-hot-and-dry-city.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
