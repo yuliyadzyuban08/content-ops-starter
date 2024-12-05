@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Workshops
+title: Workshops & Events
 sections: []
 slug: Workshops & Events
 isDraft: false
