@@ -5,9 +5,7 @@ title: >-
   Summer 
 date: '2024-07-25'
 author: content/data/person1.json
-excerpt: >-
-  Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
-  Donec sed facilisis nibh.
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/abstract-feature1.svg
