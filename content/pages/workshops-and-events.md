@@ -13,6 +13,8 @@ sections:
     posts:
       - >-
         content/pages/blog/microclimate-discovery:-pratt-environmental-awareness-walk.md
+      - >-
+        content/pages/blog/microclimate-discovery:-pratt-environmental-awareness-walk-for-sustainable-summer.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
