@@ -17,6 +17,7 @@ sections:
         content/pages/blog/microclimate-discovery:-pratt-environmental-awareness-walk-for-sustainable-summer.md
       - >-
         content/pages/blog/urban-heat-walk:-block-by-block-microclimates-in-north-brooklyn.md
+      - content/pages/blog/this-is-a-blog-post-with-related-posts.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
