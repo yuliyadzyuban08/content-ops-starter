@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: 'Microclimate Discovery: Pratt Environmental Awareness Walk'
+title: ''
 date: '2024-04-06'
 author: content/data/person1.json
 excerpt: >-
