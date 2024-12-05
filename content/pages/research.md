@@ -1,35 +1,7 @@
 ---
 type: PageLayout
 title: Research
-sections:
-  - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: Research
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    posts:
-      - content/pages/blog/paper-1.md
-    showThumbnail: false
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: small-list
-    colors: bg-light-fg-dark
-    hoverEffect: thin-underline
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    subtitle: ''
+sections: []
 slug: Research
 isDraft: false
 seo:
