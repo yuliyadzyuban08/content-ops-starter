@@ -37,7 +37,7 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pb-1
+          - pb-2
       subtitle:
         textAlign: center
   - type: CarouselSection
