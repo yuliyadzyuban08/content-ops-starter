@@ -29,7 +29,6 @@ excerpt: >-
   for the complexities of microclimates and climate change.
 featuredImage:
   type: ImageBlock
-  url: /images/IMG_3079.jpg
   altText: Thumbnail
   elementId: ''
   styles:
