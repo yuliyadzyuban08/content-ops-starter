@@ -3,7 +3,7 @@ type: PostLayout
 title: 'Urban Heat Walk: Block-by-Block Microclimates in North Brooklyn'
 date: '2024-09-04'
 author: content/data/person1.json
-excerpt: ''
+excerpt: Blog Coming Soon..
 featuredImage:
   type: ImageBlock
   url: /images/IMG_6167.jpg
