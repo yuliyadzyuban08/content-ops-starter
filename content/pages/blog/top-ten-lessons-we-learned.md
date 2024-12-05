@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Microclimate Discovery: Pratt Environmental Awareness Walk'
 slug: top-ten-lessons-we-learned
 date: '2021-08-25'
 excerpt: >-
