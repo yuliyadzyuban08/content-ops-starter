@@ -18,7 +18,7 @@ sections:
       - >-
         content/pages/blog/urban-heat-walk:-block-by-block-microclimates-in-north-brooklyn.md
       - content/pages/blog/aia-urban-microclimate-workshop.md
-    showThumbnail: true
+    showThumbnail: false
     showExcerpt: true
     showDate: true
     showAuthor: true
