@@ -283,6 +283,7 @@ sections:
         justifyContent: center
         padding:
           - pt-2
+          - pb-2
       subtitle:
         textAlign: center
   - type: CarouselSection
