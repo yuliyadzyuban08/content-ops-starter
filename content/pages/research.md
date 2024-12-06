@@ -283,7 +283,9 @@ sections:
           Sentiment analysis of weather-related tweets from cities within hot
           climates
         tagline: ''
-        subtitle: ''
+        subtitle: >-
+          Authors: Yuliya Dzyuban, Graces NY Ching, Sin Kang Yik, Adrian J Tan,
+          Peter J Crank, Shreya Banerjee, Rachel Xin Yi Pek, Winston TL Chow
         text: >+
           Link : [Sentiment analysis of weather-related tweets from cities
           within hot
