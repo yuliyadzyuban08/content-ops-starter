@@ -192,10 +192,11 @@ sections:
           literature review
         tagline: Feature 1
         subtitle: Increase your reach
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Link : [Outdoor thermal comfort research in transient conditions: A
+          narrative literature
+          review](https://www.sciencedirect.com/science/article/pii/S0169204622001451)
+
         image:
           type: ImageBlock
           altText: Featured item
