@@ -78,6 +78,7 @@ sections:
         justifyContent: center
         padding:
           - pt-2
+          - pb-20
       subtitle:
         textAlign: center
 slug: About
