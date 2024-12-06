@@ -236,7 +236,7 @@ sections:
           Assessing impact of urban densification on outdoor microclimate and
           thermal comfort using ENVI-met simulations for Combined
           Spatial-Climatic Design (CSCD) approach
-        tagline: Feature 1
+        tagline: ''
         subtitle: Increase your reach
         text: >+
           Link : [Assessing impact of urban densification on outdoor
