@@ -509,7 +509,7 @@ sections:
           Exploring the Relationship Between Design and Outdoor Thermal Comfort
           in Hot and Dry Climate
         tagline: ''
-        subtitle: Increase your reach
+        subtitle: ''
         text: >+
           ###### Link : [Exploring the Relationship Between Design and Outdoor
           Thermal Comfort in Hot and Dry
