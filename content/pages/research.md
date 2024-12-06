@@ -324,7 +324,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: A news update from the students and new professionals group
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
