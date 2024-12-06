@@ -541,7 +541,6 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
           altText: Featured item
           styles:
             self:
