@@ -406,7 +406,9 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: >-
+          Heat Walk: Perception of Thermal Comfort in Relation to Street
+          Infrastructure
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
