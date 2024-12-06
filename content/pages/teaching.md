@@ -70,6 +70,8 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+        padding:
+          - pt-2
 slug: Teaching
 isDraft: false
 seo:
