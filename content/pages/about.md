@@ -44,7 +44,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: "Contact:\_ydzyuban@pratt.edu"
+        title: "Email:\_ydzyuban@pratt.edu"
         tagline: Feature 1
         subtitle: ''
         text: ''
