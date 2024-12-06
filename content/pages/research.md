@@ -639,7 +639,7 @@ sections:
       - type: FeaturedItem
         title: Social Media Management
         tagline: Feature 1
-        subtitle: 'Report, May 29, 2017'
+        subtitle: ''
         text: >+
           Link : [Report, May 29,
           2017](https://scholar.google.com/scholar?cluster=17097044648026981060\&hl=en\&oi=scholarr)
