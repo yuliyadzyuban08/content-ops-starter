@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: Research
+title: 'Research '
 sections:
   - type: CarouselSection
     items:
