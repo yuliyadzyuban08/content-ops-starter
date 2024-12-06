@@ -98,7 +98,7 @@ sections:
           Analysing impacts of urban morphological variables and density on
           outdoor microclimate for tropical cities: A review and a framework
           proposal for future research directions
-        tagline: Feature 1
+        tagline: ''
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
