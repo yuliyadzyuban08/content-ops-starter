@@ -455,7 +455,7 @@ sections:
           Relationship between humidity and physiology in warm and humid
           conditions: A literature review
         tagline: ''
-        subtitle: 'Publication date: 2020 '
+        subtitle: 'Publication date: 2020 Authors: Yuliya Dzyuban'
         text: >+
           ###### Link : [Relationship between humidity and physiology in warm
           and humid conditions: A literature
