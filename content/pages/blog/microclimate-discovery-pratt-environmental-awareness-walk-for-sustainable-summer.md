@@ -5,7 +5,7 @@ title: >-
   Summer
 date: '2024-07-25'
 author: content/data/person1.json
-excerpt: Blog is Coming Soon...
+excerpt: The Blog is Coming Soon...
 featuredImage:
   type: ImageBlock
   url: /images/image_67200769 (1).JPG
