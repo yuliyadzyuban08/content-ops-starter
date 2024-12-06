@@ -42,4 +42,5 @@ styles:
   self:
     flexDirection: row
 ---
-Blog is Coming Soon..
+The Blog is Coming Soon...
+
