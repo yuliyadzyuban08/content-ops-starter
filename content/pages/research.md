@@ -99,7 +99,7 @@ sections:
           outdoor microclimate for tropical cities: A review and a framework
           proposal for future research directions
         tagline: ''
-        subtitle: ''
+        subtitle: 'Publication date : 01/2022/11/1'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
