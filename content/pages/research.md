@@ -505,7 +505,9 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: >-
+          Exploring the Relationship Between Design and Outdoor Thermal Comfort
+          in Hot and Dry Climate
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
