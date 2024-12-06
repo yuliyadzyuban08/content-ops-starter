@@ -510,10 +510,13 @@ sections:
           in Hot and Dry Climate
         tagline: Feature 1
         subtitle: Increase your reach
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          ###### Link : [Exploring the Relationship Between Design and Outdoor
+          Thermal Comfort in Hot and Dry
+          Climate](https://search.proquest.com/openview/85d63e0dfc467504beda6b29b37d2736/1?pq-origsite=gscholar\&cbl=18750\&diss=y)
+
+
+
         image:
           type: ImageBlock
           altText: Featured item
