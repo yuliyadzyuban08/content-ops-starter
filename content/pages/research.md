@@ -196,8 +196,8 @@ sections:
           Ching, Sin Kang Yik, Adrian J Tan, Shreya Banerjee, Peter J Crank,
           Winston TL Chow
         text: >+
-          Link : [Outdoor thermal comfort research in transient conditions: A
-          narrative literature
+          ###### Link : [Outdoor thermal comfort research in transient
+          conditions: A narrative literature
           review](https://www.sciencedirect.com/science/article/pii/S0169204622001451)
 
         image:
