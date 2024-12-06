@@ -8,7 +8,9 @@ sections:
         title: >-
           Evidence of alliesthesia during a neighborhood thermal walk in a hot
           and dry city
-        tagline: Feature 1
+        tagline: >-
+          Authors: Yuliya Dzyuban, David M Hondula, Jennifer K Vanos, Ariane
+          Middel, Paul J Coseo, Evan R Kuras, Charles L Redman
         subtitle: Increase your reach
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
