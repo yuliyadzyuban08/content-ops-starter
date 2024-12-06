@@ -451,7 +451,9 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: >-
+          Relationship between humidity and physiology in warm and humid
+          conditions: A literature review
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
