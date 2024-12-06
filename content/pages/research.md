@@ -143,7 +143,7 @@ sections:
         title: >-
           Technological opportunities for sensing of the health effects of
           weather and climate change: a state-of-the-art-review
-        tagline: Feature 1
+        tagline: ''
         subtitle: Increase your reach
         text: >+
           ###### Link- [Technological opportunities for sensing of the health
