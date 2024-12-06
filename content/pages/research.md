@@ -554,7 +554,9 @@ sections:
           Behaviors to Enhance Climate Adaptation and Mitigation Strategies in
           the Southwest United States
         tagline: ''
-        subtitle: 'Publication date: 01/09/2019 '
+        subtitle: >-
+          Publication date: 01/09/2019 Authors: Yuliya Dzyuban, David M Hondula,
+          Ariane Middel
         text: "Link: \_[Analyzing Public Transit Based Heat Exposure, Perception, and Behaviors to Enhance Climate Adaptation and Mitigation Strategies in the Southwest United States\n](https://ams.confex.com/ams/2019Annual/meetingapp.cgi/Paper/351614)\n"
         image:
           type: ImageBlock
