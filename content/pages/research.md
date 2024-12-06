@@ -2,17 +2,6 @@
 type: PageLayout
 title: 'Research '
 sections:
-  - type: DividerSection
-    title: 'Research '
-    elementId: ''
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-20
-          - pl-20
-          - pb-20
-          - pr-20
   - type: CarouselSection
     items:
       - type: FeaturedItem
