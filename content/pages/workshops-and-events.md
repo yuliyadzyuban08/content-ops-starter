@@ -32,7 +32,7 @@ sections:
         padding:
           - pt-2
           - pl-16
-          - pb-16
+          - pb-2
           - pr-16
         justifyContent: center
 slug: Workshops & Events
