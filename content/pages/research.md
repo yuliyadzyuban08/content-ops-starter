@@ -5,7 +5,9 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: >-
+          Evidence of alliesthesia during a neighborhood thermal walk in a hot
+          and dry city
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
