@@ -456,10 +456,13 @@ sections:
           conditions: A literature review
         tagline: Feature 1
         subtitle: Increase your reach
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          ###### Link : [Relationship between humidity and physiology in warm
+          and humid conditions: A literature
+          review](https://ink.library.smu.edu.sg/soss_research/3243/)
+
+
+
         image:
           type: ImageBlock
           altText: Featured item
