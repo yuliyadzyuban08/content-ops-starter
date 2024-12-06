@@ -1,12 +1,14 @@
 ---
 type: PostLayout
-title: AIA Urban Microclimate Workshop
-date: '2024-10-08'
+title: >-
+  Microclimate Discovery Pratt Environmental Awareness Walk for Sustainable
+  Summer
+date: '2024-07-25'
 author: content/data/person1.json
 excerpt: The Blog is Coming Soon...
 featuredImage:
   type: ImageBlock
-  url: /images/IMG_6058 (1).jpg
+  url: /images/image_67200769 (1).JPG
   altText: Thumbnail
   elementId: ''
   styles:
@@ -28,7 +30,9 @@ bottomSections:
           - pl-3
           - pb-3
           - pr-3
-slug: AIA Urban Microclimate Workshop
+slug: >-
+  Microclimate Discovery Pratt Environmental Awareness Walk for Sustainable
+  Summer
 isFeatured: false
 isDraft: false
 seo:
