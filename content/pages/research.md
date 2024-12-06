@@ -366,7 +366,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Exploring pedestrian thermal comfort in hot climates
-        tagline: Feature 1
+        tagline: ''
         subtitle: ''
         text: >+
           Link: [Exploring pedestrian thermal comfort in hot
