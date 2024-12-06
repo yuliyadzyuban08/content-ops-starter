@@ -237,7 +237,10 @@ sections:
           thermal comfort using ENVI-met simulations for Combined
           Spatial-Climatic Design (CSCD) approach
         tagline: ''
-        subtitle: ''
+        subtitle: >-
+          Authors : Shreya Banerjee, Rachel Xin Yi Pek, Sin Kang Yik, Graces Ny
+          Ching, Xiang Tian Ho, Yuliya Dzyuban, Peter J Crank, Juan A Acero,
+          Winston TL Chow
         text: >+
           Link : [Assessing impact of urban densification on outdoor
           microclimate and thermal comfort using ENVI-met simulations for
