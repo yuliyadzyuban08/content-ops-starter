@@ -368,10 +368,10 @@ sections:
         title: Exploring pedestrian thermal comfort in hot climates
         tagline: Feature 1
         subtitle: Increase your reach
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Link: [Exploring pedestrian thermal comfort in hot
+          climates](https://ui.adsabs.harvard.edu/abs/2020EGUGA..22.8439D/abstract)
+
         image:
           type: ImageBlock
           altText: Featured item
