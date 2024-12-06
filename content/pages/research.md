@@ -11,7 +11,7 @@ sections:
         tagline: >-
           Authors: Yuliya Dzyuban, David M Hondula, Jennifer K Vanos, Ariane
           Middel, Paul J Coseo, Evan R Kuras, Charles L Redman
-        subtitle: Increase your reach
+        subtitle: 'Publication date : 2022/8/15'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
