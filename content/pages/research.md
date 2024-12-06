@@ -410,7 +410,9 @@ sections:
           Heat Walk: Perception of Thermal Comfort in Relation to Street
           Infrastructure
         tagline: ''
-        subtitle: 'Publication date: 13/01/2020 '
+        subtitle: >-
+          Publication date: 13/01/2020 Authors: Yuliya Dzyuban, David M Hondula,
+          Maggie Messerschmidt, Jennifer Vanos, Ariane Middel, Paul Coseo
         text: >+
           ###### Link: [Heat Walk: Perception of Thermal Comfort in Relation to
           Street
