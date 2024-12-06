@@ -283,7 +283,7 @@ sections:
           Sentiment analysis of weather-related tweets from cities within hot
           climates
         tagline: ''
-        subtitle: Increase your reach
+        subtitle: ''
         text: >+
           Link : [Sentiment analysis of weather-related tweets from cities
           within hot
