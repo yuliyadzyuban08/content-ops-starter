@@ -8,9 +8,7 @@ sections:
         title: >-
           Evidence of alliesthesia during a neighborhood thermal walk in a hot
           and dry city
-        tagline: >-
-          Authors: Yuliya Dzyuban, David M Hondula, Jennifer K Vanos, Ariane
-          Middel, Paul J Coseo, Evan R Kuras, Charles L Redman
+        tagline: ''
         subtitle: 'Publication date : 15/08/2022'
         text: >+
           ###### [Evidence of alliesthesia during a neighborhood thermal walk in
