@@ -549,7 +549,10 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: >-
+          Analyzing Public Transit Based Heat Exposure, Perception, and
+          Behaviors to Enhance Climate Adaptation and Mitigation Strategies in
+          the Southwest United States
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
