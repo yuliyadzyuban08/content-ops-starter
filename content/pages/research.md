@@ -288,8 +288,8 @@ sections:
           Sin Kang Yik, Adrian J Tan, Peter J Crank, Shreya Banerjee, Rachel Xin
           Yi Pek, Winston TL Chow
         text: >+
-          Link : [Sentiment analysis of weather-related tweets from cities
-          within hot
+          ###### Link : [Sentiment analysis of weather-related tweets from
+          cities within hot
           climates](https://journals.ametsoc.org/view/journals/wcas/14/4/WCAS-D-21-0159.1.xml)
 
         image:
