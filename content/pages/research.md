@@ -410,7 +410,7 @@ sections:
           Heat Walk: Perception of Thermal Comfort in Relation to Street
           Infrastructure
         tagline: ''
-        subtitle: 'Publication date: 2020/1/13'
+        subtitle: 'Publication date: 13/01/2020 '
         text: >+
           ###### Link: [Heat Walk: Perception of Thermal Comfort in Relation to
           Street
