@@ -54,7 +54,7 @@ sections:
           Public transit infrastructure and heat perceptions in hot and dry
           climates
         tagline: Feature 1
-        subtitle: Increase your reach
+        subtitle: 'Publication date : 01/26/2021 '
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
