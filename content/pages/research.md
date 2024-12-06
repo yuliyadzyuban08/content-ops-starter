@@ -454,7 +454,7 @@ sections:
         title: >-
           Relationship between humidity and physiology in warm and humid
           conditions: A literature review
-        tagline: Feature 1
+        tagline: ''
         subtitle: Increase your reach
         text: >+
           ###### Link : [Relationship between humidity and physiology in warm
