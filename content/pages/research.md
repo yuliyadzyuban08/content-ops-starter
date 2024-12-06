@@ -605,6 +605,8 @@ sections:
     styles:
       self:
         justifyContent: center
+        padding:
+          - pt-2
       subtitle:
         textAlign: center
   - type: CarouselSection
