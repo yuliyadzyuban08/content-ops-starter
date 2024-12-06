@@ -46,7 +46,7 @@ sections:
       - type: FeaturedItem
         title: "Contact:\_ydzyuban@pratt.edu"
         tagline: Feature 1
-        subtitle: "Contact:\_ydzyuban@pratt.edu"
+        subtitle: ''
         text: ''
         image:
           type: ImageBlock
