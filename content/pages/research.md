@@ -555,17 +555,7 @@ sections:
           the Southwest United States
         tagline: Feature 1
         subtitle: Increase your reach
-        text: >+
-          ###### [
-
-          Link :  Analyzing Public Transit Based Heat Exposure, Perception, and
-          Behaviors to Enhance Climate Adaptation and Mitigation Strategies in
-          the Southwest United States
-
-          ](https://ams.confex.com/ams/2019Annual/meetingapp.cgi/Paper/351614)
-
-
-
+        text: "Link: \_[Analyzing Public Transit Based Heat Exposure, Perception, and Behaviors to Enhance Climate Adaptation and Mitigation Strategies in the Southwest United States\n](https://ams.confex.com/ams/2019Annual/meetingapp.cgi/Paper/351614)\n"
         image:
           type: ImageBlock
           altText: Featured item
