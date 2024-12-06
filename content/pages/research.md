@@ -144,7 +144,12 @@ sections:
           Technological opportunities for sensing of the health effects of
           weather and climate change: a state-of-the-art-review
         tagline: ''
-        subtitle: 'Publication date : 2021/6'
+        subtitle: >-
+          Publication date : 2021/6  Authors: Vidya Anderson, Andrew CW Leung,
+          Hamed Mehdipoor, Britta Jänicke, Dragan Milošević, Ana Oliveira, S
+          Manavvi, Peter Kabano, Yuliya Dzyuban, Rosa Aguilar, Peter Nkashi
+          Agan, Jonah Joshua Kunda, Gustavo Garcia-Chapeton, Vinicius de Franca
+          Carvalho Fonseca, Sheila Tavares Nascimento, Raul Zurita-Milla 
         text: >+
           ###### Link- [Technological opportunities for sensing of the health
           effects of weather and climate change: a
