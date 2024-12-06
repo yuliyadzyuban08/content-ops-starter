@@ -167,7 +167,7 @@ sections:
           self:
             padding:
               - pt-2
-              - pb-9
+              - pb-2
               - pl-9
               - pr-9
             textAlign: left
