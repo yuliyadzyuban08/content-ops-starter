@@ -191,7 +191,7 @@ sections:
           Outdoor thermal comfort research in transient conditions: A narrative
           literature review
         tagline: ''
-        subtitle: Increase your reach
+        subtitle: ''
         text: >+
           Link : [Outdoor thermal comfort research in transient conditions: A
           narrative literature
