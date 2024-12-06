@@ -14,8 +14,8 @@ sections:
           Hondula, Jennifer K Vanos, Ariane Middel, Paul J Coseo, Evan R Kuras,
           Charles L Redman
         text: >+
-          ###### [Evidence of alliesthesia during a neighborhood thermal walk in
-          a hot and dry
+          ###### [Link: Evidence of alliesthesia during a neighborhood thermal
+          walk in a hot and dry
           city](https://www.sciencedirect.com/science/article/pii/S0048969722023877)
 
         image:
