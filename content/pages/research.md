@@ -685,7 +685,9 @@ sections:
       - type: FeaturedItem
         title: Social Media Management
         tagline: Feature 1
-        subtitle: ''
+        subtitle: >-
+          Outdoor thermal comfort research in transient conditions: A narrative
+          literature review.(2022)
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
