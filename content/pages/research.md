@@ -140,7 +140,9 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: >-
+          Technological opportunities for sensing of the health effects of
+          weather and climate change: a state-of-the-art-review
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
