@@ -509,7 +509,7 @@ sections:
           Exploring the Relationship Between Design and Outdoor Thermal Comfort
           in Hot and Dry Climate
         tagline: ''
-        subtitle: 'Publication date : 2019 '
+        subtitle: 'Publication date : 2019 Authors : Yuliya Dzyuban'
         text: >+
           ###### Link : [Exploring the Relationship Between Design and Outdoor
           Thermal Comfort in Hot and Dry
