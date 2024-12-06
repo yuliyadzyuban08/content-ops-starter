@@ -187,7 +187,9 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: >-
+          Outdoor thermal comfort research in transient conditions: A narrative
+          literature review
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
