@@ -44,7 +44,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Contact
+        title: 'Contact:'
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
