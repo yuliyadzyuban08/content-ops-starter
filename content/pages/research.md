@@ -590,7 +590,9 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: >-
+          Analyzing transit-based heat exposure and behaviors to enhance urban
+          climate adaptation and mitigation strategies in the southwest USA
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
