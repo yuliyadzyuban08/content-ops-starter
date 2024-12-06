@@ -686,7 +686,7 @@ sections:
         title: >-
           Outdoor thermal comfort research in transient conditions: A narrative
           literature review.(2022)
-        tagline: Feature 1
+        tagline: ''
         subtitle: ''
         text: >+
           Link : [Outdoor thermal comfort research in transient conditions: A
