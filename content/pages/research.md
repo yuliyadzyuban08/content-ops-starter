@@ -327,10 +327,10 @@ sections:
         title: A news update from the students and new professionals group
         tagline: Feature 1
         subtitle: Increase your reach
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Link : [A news update from the students and new professionals
+          group](https://link.springer.com/article/10.1007/s00484-021-02203-z)
+
         image:
           type: ImageBlock
           altText: Featured item
