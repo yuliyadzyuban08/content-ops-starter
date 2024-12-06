@@ -33,7 +33,8 @@
     "styles": {
         "self": {
             "padding": [
-                "pt-4"
+                "pt-4",
+                "pb-5"
             ]
         }
     }
