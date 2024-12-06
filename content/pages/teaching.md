@@ -22,10 +22,6 @@ sections:
       type: ImageBlock
       url: /images/Microclimate Assessment for Urban Design1.jpg
       altText: Dope design preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
