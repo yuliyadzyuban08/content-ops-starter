@@ -20,7 +20,7 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/Microclimate Assessment for Urban Design1.jpg
       altText: Dope design preview
     badge:
       type: Badge
