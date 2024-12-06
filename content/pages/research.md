@@ -638,7 +638,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ''
-        tagline: Feature 1
+        tagline: ''
         subtitle: >-
           Authors : Jake Arishi, Habib Azarabadi, Joseline Casteneda, Rio De
           Leon, Kevin Dwyer, Yuliya Dzyuban, Amr Fenais, Nagelle Fernandes,
