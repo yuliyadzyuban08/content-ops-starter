@@ -371,7 +371,7 @@ sections:
           Publication date: 2020/5 Authors : Yuliya Dzyuban, Charles Redman,
           David Hondula, Paul Coseo, Ariane Middel, Jennifer Vanos
         text: >+
-          Link: [Exploring pedestrian thermal comfort in hot
+          ###### Link: [Exploring pedestrian thermal comfort in hot
           climates](https://ui.adsabs.harvard.edu/abs/2020EGUGA..22.8439D/abstract)
 
         image:
