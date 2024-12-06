@@ -103,9 +103,9 @@ sections:
           Publication date : 11/01/2022 Authors : Shreya Banerjee, Sin Kang Yik,
           Yuliya Dzyuban, Peter J Crank, Rachel Pek Xin Yi, Winston TL Chow
         text: >+
-          ###### [Analysing impacts of urban morphological variables and density
-          on outdoor microclimate for tropical cities: A review and a framework
-          proposal for future research
+          ###### Link:  [Analysing impacts of urban morphological variables and
+          density on outdoor microclimate for tropical cities: A review and a
+          framework proposal for future research
           directions](https://www.sciencedirect.com/science/article/pii/S0360132322008769)
 
         image:
