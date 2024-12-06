@@ -31,7 +31,7 @@ sections:
             textAlign: left
             borderRadius: large
             flexDirection: col
-            justifyContent: flex-end
+            justifyContent: center
     variant: tabs-nav
     colors: bg-light-fg-dark
     styles:
