@@ -593,7 +593,7 @@ sections:
         title: >-
           Analyzing transit-based heat exposure and behaviors to enhance urban
           climate adaptation and mitigation strategies in the southwest USA
-        tagline: Feature 1
+        tagline: ''
         subtitle: Increase your reach
         text: >+
           ###### Link: [Analyzing transit-based heat exposure and behaviors to
