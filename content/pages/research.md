@@ -150,12 +150,8 @@ sections:
           Manavvi, Peter Kabano, Yuliya Dzyuban, Rosa Aguilar, Peter Nkashi
           Agan, Jonah Joshua Kunda, Gustavo Garcia-Chapeton, Vinicius de Franca
           Carvalho Fonseca, Sheila Tavares Nascimento, Raul Zurita-Milla 
-        text: >+
-          ###### Link- [Technological opportunities for sensing of the health
-          effects of weather and climate change: a
-          state-of-the-art-review](https://link.springer.com/article/10.1007/s00484-020-02063-z)
-
-
+        text: |+
+          ######
 
         image:
           type: ImageBlock
