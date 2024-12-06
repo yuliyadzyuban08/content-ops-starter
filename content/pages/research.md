@@ -94,7 +94,10 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: >-
+          Analysing impacts of urban morphological variables and density on
+          outdoor microclimate for tropical cities: A review and a framework
+          proposal for future research directions
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
