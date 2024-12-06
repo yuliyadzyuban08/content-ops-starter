@@ -72,6 +72,7 @@ sections:
         flexDirection: row-reverse
         padding:
           - pt-2
+          - pb-2
 slug: Teaching
 isDraft: false
 seo:
