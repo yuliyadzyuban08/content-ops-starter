@@ -39,7 +39,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: Be in good company
+    subtitle: ''
     text: |
       In this class, we will explore the complex interactions
        between rising temperatures, urban infrastructure, and
