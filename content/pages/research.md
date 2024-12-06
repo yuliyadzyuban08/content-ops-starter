@@ -410,7 +410,7 @@ sections:
           Heat Walk: Perception of Thermal Comfort in Relation to Street
           Infrastructure
         tagline: ''
-        subtitle: Increase your reach
+        subtitle: ''
         text: >+
           ###### Link: [Heat Walk: Perception of Thermal Comfort in Relation to
           Street
