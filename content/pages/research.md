@@ -238,8 +238,8 @@ sections:
           Spatial-Climatic Design (CSCD) approach
         tagline: ''
         subtitle: >-
-          Publication date :  2024/6/1 Authors : Shreya Banerjee, Rachel Xin Yi
-          Pek, Sin Kang Yik, Graces Ny Ching, Xiang Tian Ho, Yuliya Dzyuban,
+          Publication date : 06/01/2024  Authors : Shreya Banerjee, Rachel Xin
+          Yi Pek, Sin Kang Yik, Graces Ny Ching, Xiang Tian Ho, Yuliya Dzyuban,
           Peter J Crank, Juan A Acero, Winston TL Chow
         text: >+
           Link : [Assessing impact of urban densification on outdoor
