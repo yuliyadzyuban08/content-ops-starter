@@ -58,15 +58,9 @@ sections:
           Publication date : 01/26/2021 Authors : Yuliya Dzyuban, David M
           Hondula, Paul J Coseo, Charles L Redman
         text: >+
-          #### [Public transit infrastructure and heat perceptions in hot and
+          ###### [Public transit infrastructure and heat perceptions in hot and
           dry
           climates](https://link.springer.com/article/10.1007/s00484-021-02074-4)
-
-
-          [
-
-
-          ](https://link.springer.com/article/10.1007/s00484-021-02074-4)
 
         image:
           type: ImageBlock
