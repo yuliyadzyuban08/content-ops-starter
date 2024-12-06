@@ -47,7 +47,16 @@ sections:
         title: ''
         tagline: Feature 1
         subtitle: 'Contact :'
-        text: ''
+        text: >+
+          Email : ydzyuban\@pratt.edu
+
+
+          LinkedIn :
+          [https://www.linkedin.com/in/yuliya-dzyuban-03909939/](https://www.linkedin.com/in/yuliya-dzyuban-03909939/Instagram)
+
+
+          Instagram : ydzyuban
+
         image:
           type: ImageBlock
           altText: Featured item
