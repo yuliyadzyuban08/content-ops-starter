@@ -326,7 +326,9 @@ sections:
       - type: FeaturedItem
         title: A news update from the students and new professionals group
         tagline: ''
-        subtitle: 'Publication date : 2022/2/1 '
+        subtitle: >-
+          Publication date : 2022/2/1 Authors : Angela M Lees, Daniel J
+          Vecellio, Yuliya Dzyuban
         text: >+
           Link : [A news update from the students and new professionals
           group](https://link.springer.com/article/10.1007/s00484-021-02203-z)
