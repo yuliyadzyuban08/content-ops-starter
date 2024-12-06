@@ -688,10 +688,11 @@ sections:
         subtitle: >-
           Outdoor thermal comfort research in transient conditions: A narrative
           literature review.(2022)
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Link : [Outdoor thermal comfort research in transient conditions: A
+          narrative literature
+          review.(2022)](https://ink.library.smu.edu.sg/cgi/viewcontent.cgi?params=/context/cis_research/article/1016/\&path_info=1_s2.0_S0169204622001451_pvoa.pdf)
+
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
