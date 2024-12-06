@@ -639,7 +639,14 @@ sections:
       - type: FeaturedItem
         title: Social Media Management
         tagline: Feature 1
-        subtitle: ''
+        subtitle: >-
+          AuthorsJake Arishi, Habib Azarabadi, Joseline Casteneda, Rio De Leon,
+          Kevin Dwyer, Yuliya Dzyuban, Amr Fenais, Nagelle Fernandes, Andres
+          Gonzalez, Christopher Glenn Hoehne, Joseph Mueller, Suhas Podduturi,
+          Nokwanda Ramatheko, Jordan Robert Rodriguez, Joshua Rogers, Samuel
+          Rogers, Christopher Sanchez, Kristian Santana, Madeline Elizabeth
+          Sawyer, Rachael Sherman, Hunter Venne, Andrew Wills, Jiang Xie, Sai
+          Rutwik Reddy Yellasiri, Pengfei Zhang
         text: >+
           Link : [Report, May 29,
           2017](https://scholar.google.com/scholar?cluster=17097044648026981060\&hl=en\&oi=scholarr)
