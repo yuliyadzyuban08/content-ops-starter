@@ -1,118 +1,59 @@
 {
     "primaryLinks": [
         {
-            "label": "Home",
-            "altText": "home",
-            "url": "/home",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "label": "About",
             "url": "/About",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "altText": "About"
         },
         {
-            "label": "blog",
-            "altText": "blog",
-            "url": "/blog",
+            "label": "Workshops & Events",
+            "altText": "Workshops & Events",
+            "url": "/Workshops & Events",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "type": "SubNav",
-            "label": "Workshop Events",
-            "altText": "Workshop Events",
-            "links": [
-                {
-                    "type": "Link",
-                    "label": "Dropdown item",
-                    "altText": "",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "Workshop Events",
-                    "altText": "Workshop Events",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "Dropdown item",
-                    "altText": "",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                }
-            ],
-            "labelStyle": "secondary"
+            "label": "Research",
+            "altText": "Research",
+            "url": "/Research",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
         },
         {
-            "type": "SubNav",
-            "label": "Publications",
-            "altText": "Publications",
-            "links": [
-                {
-                    "type": "Link",
-                    "label": "Dropdown item",
-                    "altText": "",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "Dropdown item",
-                    "altText": "",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                },
-                {
-                    "type": "Link",
-                    "label": "Dropdown item",
-                    "altText": "",
-                    "url": "/",
-                    "showIcon": false,
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
-                    "style": "secondary",
-                    "elementId": ""
-                }
-            ],
-            "labelStyle": "secondary"
+            "type": "Link",
+            "label": "Teaching ",
+            "altText": "Teaching ",
+            "url": "/Teaching ",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
         },
         {
-            "type": "Button",
-            "label": "Contact",
-            "altText": "Contact",
-            "url": "Contact",
+            "type": "Link",
+            "label": "Public Work",
+            "altText": "",
+            "url": "/Public Work",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "Publication",
+            "altText": "Publication",
+            "url": "/Publication",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -122,7 +63,7 @@
     ],
     "secondaryLinks": [],
     "variant": "logo-left-primary-nav-right",
-    "colors": "bg-light-fg-dark",
+    "colors": "bg-dark-fg-light",
     "type": "Header",
     "styles": {
         "self": {
