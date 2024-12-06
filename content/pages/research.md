@@ -640,10 +640,10 @@ sections:
         title: Social Media Management
         tagline: Feature 1
         subtitle: 'Report, May 29, 2017'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Link : [Report, May 29,
+          2017](https://scholar.google.com/scholar?cluster=17097044648026981060\&hl=en\&oi=scholarr)
+
         image:
           type: ImageBlock
           altText: Featured item
