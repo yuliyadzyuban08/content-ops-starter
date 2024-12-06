@@ -367,7 +367,7 @@ sections:
       - type: FeaturedItem
         title: Exploring pedestrian thermal comfort in hot climates
         tagline: ''
-        subtitle: ''
+        subtitle: 'Publication date: 2020/5 '
         text: >+
           Link: [Exploring pedestrian thermal comfort in hot
           climates](https://ui.adsabs.harvard.edu/abs/2020EGUGA..22.8439D/abstract)
