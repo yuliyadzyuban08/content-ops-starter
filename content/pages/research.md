@@ -637,7 +637,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: ''
+        title: 'Report, May 29, 2017'
         tagline: ''
         subtitle: >-
           Authors : Jake Arishi, Habib Azarabadi, Joseline Casteneda, Rio De
