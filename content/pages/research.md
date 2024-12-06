@@ -13,13 +13,9 @@ sections:
           Middel, Paul J Coseo, Evan R Kuras, Charles L Redman
         subtitle: 'Publication date : 2022/8/15'
         text: >+
-          # [Evidence of alliesthesia during a neighborhood thermal walk in a
-          hot and dry
+          ###### [Evidence of alliesthesia during a neighborhood thermal walk in
+          a hot and dry
           city](https://www.sciencedirect.com/science/article/pii/S0048969722023877)
-
-
-
-
 
         image:
           type: ImageBlock
