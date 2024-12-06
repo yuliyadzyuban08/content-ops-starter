@@ -411,10 +411,13 @@ sections:
           Infrastructure
         tagline: Feature 1
         subtitle: Increase your reach
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          ###### Link: [Heat Walk: Perception of Thermal Comfort in Relation to
+          Street
+          Infrastructure](https://ams.confex.com/ams/2020Annual/meetingapp.cgi/Paper/364737)
+
+
+
         image:
           type: ImageBlock
           altText: Featured item
