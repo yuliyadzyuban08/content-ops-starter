@@ -238,10 +238,12 @@ sections:
           Spatial-Climatic Design (CSCD) approach
         tagline: Feature 1
         subtitle: Increase your reach
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Link : [Assessing impact of urban densification on outdoor
+          microclimate and thermal comfort using ENVI-met simulations for
+          Combined Spatial-Climatic Design (CSCD)
+          approach](https://www.sciencedirect.com/science/article/pii/S2210670724001306)
+
         image:
           type: ImageBlock
           altText: Featured item
