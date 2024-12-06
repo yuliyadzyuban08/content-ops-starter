@@ -47,8 +47,8 @@ sections:
         title: ''
         tagline: Feature 1
         subtitle: 'Contact :'
-        text: >+
-          Email : ydzyuban\@pratt.edu
+        text: >
+          Email : <ydzyuban@pratt.edu>
 
 
           LinkedIn :
@@ -56,7 +56,6 @@ sections:
 
 
           Instagram : ydzyuban
-
         image:
           type: ImageBlock
           altText: Featured item
