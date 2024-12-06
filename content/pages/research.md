@@ -637,7 +637,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: ''
         tagline: Feature 1
         subtitle: >-
           Authors : Jake Arishi, Habib Azarabadi, Joseline Casteneda, Rio De
