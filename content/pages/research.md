@@ -555,10 +555,17 @@ sections:
           the Southwest United States
         tagline: Feature 1
         subtitle: Increase your reach
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          ###### [
+
+          Link :  Analyzing Public Transit Based Heat Exposure, Perception, and
+          Behaviors to Enhance Climate Adaptation and Mitigation Strategies in
+          the Southwest United States
+
+          ](https://ams.confex.com/ams/2019Annual/meetingapp.cgi/Paper/351614)
+
+
+
         image:
           type: ImageBlock
           altText: Featured item
