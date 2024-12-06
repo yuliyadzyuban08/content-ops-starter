@@ -279,7 +279,9 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: ''
+        title: >-
+          Sentiment analysis of weather-related tweets from cities within hot
+          climates
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
