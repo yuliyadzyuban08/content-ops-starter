@@ -48,18 +48,6 @@ sections:
       subtitle:
         textAlign: center
   - type: CarouselSection
-    items: []
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-        padding:
-          - pt-2
-          - pb-2
-      subtitle:
-        textAlign: center
-  - type: CarouselSection
     items:
       - type: FeaturedItem
         title: Social Media Management
