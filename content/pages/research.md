@@ -3,7 +3,7 @@ type: PageLayout
 title: 'Research '
 sections:
   - type: DividerSection
-    title: Divider
+    title: 'Research '
     elementId: ''
     colors: bg-light-fg-dark
     styles:
