@@ -325,7 +325,7 @@ sections:
     items:
       - type: FeaturedItem
         title: A news update from the students and new professionals group
-        tagline: Feature 1
+        tagline: ''
         subtitle: ''
         text: >+
           Link : [A news update from the students and new professionals
