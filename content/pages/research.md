@@ -284,10 +284,11 @@ sections:
           climates
         tagline: ''
         subtitle: Increase your reach
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          Link : [Sentiment analysis of weather-related tweets from cities
+          within hot
+          climates](https://journals.ametsoc.org/view/journals/wcas/14/4/WCAS-D-21-0159.1.xml)
+
         image:
           type: ImageBlock
           altText: Featured item
