@@ -595,10 +595,14 @@ sections:
           climate adaptation and mitigation strategies in the southwest USA
         tagline: Feature 1
         subtitle: Increase your reach
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          ###### Link: [Analyzing transit-based heat exposure and behaviors to
+          enhance urban climate adaptation and mitigation strategies in the
+          southwest
+          USA](https://erz983y7bza.exactdn.com/wp-content/uploads/sites/9/2021/10/Dzyuban-etal-transit.pdf)
+
+
+
         image:
           type: ImageBlock
           altText: Featured item
