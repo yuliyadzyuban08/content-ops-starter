@@ -232,7 +232,10 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: >-
+          Assessing impact of urban densification on outdoor microclimate and
+          thermal comfort using ENVI-met simulations for Combined
+          Spatial-Climatic Design (CSCD) approach
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
