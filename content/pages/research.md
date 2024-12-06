@@ -191,7 +191,7 @@ sections:
           Outdoor thermal comfort research in transient conditions: A narrative
           literature review
         tagline: ''
-        subtitle: ''
+        subtitle: 'Publication date : 2022/10/1 '
         text: >+
           Link : [Outdoor thermal comfort research in transient conditions: A
           narrative literature
