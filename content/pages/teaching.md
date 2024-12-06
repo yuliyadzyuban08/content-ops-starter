@@ -58,13 +58,7 @@ sections:
        of heat vulnerability, analyze case studies of global heat
        action plans and policies, and develop a heat management
        plan with verifiable metrics.
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
+    actions: []
     media:
       type: ImageBlock
       url: /images/Urban Heat Management_Page_1.jpg
