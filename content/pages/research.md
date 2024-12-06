@@ -687,7 +687,9 @@ sections:
           Outdoor thermal comfort research in transient conditions: A narrative
           literature review.(2022)
         tagline: ''
-        subtitle: ''
+        subtitle: >-
+          Authors: Yuliya DZYUBAN, Graces NY CHING, Sin Kang YIK, Adrian J TAN,
+          Shreya BANERJEE, Peter Jay CRANK, Winston TL CHOW
         text: >+
           Link : [Outdoor thermal comfort research in transient conditions: A
           narrative literature
