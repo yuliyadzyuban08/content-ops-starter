@@ -191,7 +191,10 @@ sections:
           Outdoor thermal comfort research in transient conditions: A narrative
           literature review
         tagline: ''
-        subtitle: 'Publication date : 10/01/2022 '
+        subtitle: >-
+          Publication date : 10/01/2022 Authors: Yuliya Dzyuban, Graces NY
+          Ching, Sin Kang Yik, Adrian J Tan, Shreya Banerjee, Peter J Crank,
+          Winston TL Chow
         text: >+
           Link : [Outdoor thermal comfort research in transient conditions: A
           narrative literature
