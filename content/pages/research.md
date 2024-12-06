@@ -490,6 +490,8 @@ sections:
     styles:
       self:
         justifyContent: center
+        padding:
+          - pb-2
       subtitle:
         textAlign: center
 slug: Research
