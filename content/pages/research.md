@@ -144,7 +144,7 @@ sections:
           Technological opportunities for sensing of the health effects of
           weather and climate change: a state-of-the-art-review
         tagline: ''
-        subtitle: Increase your reach
+        subtitle: 'Publication date : 2021/6 '
         text: >+
           ###### Link- [Technological opportunities for sensing of the health
           effects of weather and climate change: a
