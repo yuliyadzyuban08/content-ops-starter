@@ -14,7 +14,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/082824_YULIYADZYUBAN-02.jpg
           altText: Featured item
           styles:
             self:
