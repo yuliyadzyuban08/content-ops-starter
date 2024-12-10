@@ -6,50 +6,6 @@ sections:
     items:
       - type: FeaturedItem
         title: >-
-          Public transit infrastructure and heat perceptions in hot and dry
-          climates
-        tagline: Feature 1
-        subtitle: >-
-          Publication date : 01/26/2021 Authors : Yuliya Dzyuban, David M
-          Hondula, Paul J Coseo, Charles L Redman
-        text: >+
-          ###### Link: [Public transit infrastructure and heat perceptions in
-          hot and dry
-          climates](https://link.springer.com/article/10.1007/s00484-021-02074-4)
-
-        image:
-          type: ImageBlock
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-        padding:
-          - pt-2
-          - pb-2
-      subtitle:
-        textAlign: center
-  - type: CarouselSection
-    items:
-      - type: FeaturedItem
-        title: >-
           Analysing impacts of urban morphological variables and density on
           outdoor microclimate for tropical cities: A review and a framework
           proposal for future research directions
