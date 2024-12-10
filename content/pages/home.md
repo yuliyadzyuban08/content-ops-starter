@@ -85,7 +85,7 @@ sections:
           - pb-2
       subtitle:
         textAlign: center
-slug: About
+slug: Home
 seo:
   type: Seo
   metaTitle: Careers - Demo site
