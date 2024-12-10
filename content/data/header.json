@@ -58,7 +58,7 @@
             "url": "/Research Work",
             "showIcon": false,
             "icon": "arrowRight",
-            "iconPosition": "right",
+            "iconPosition": "left",
             "style": "primary",
             "elementId": ""
         }
