@@ -39,7 +39,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: empty
+slug: /
 isDraft: false
 seo:
   type: Seo
