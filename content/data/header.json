@@ -56,7 +56,7 @@
             "label": "Research Work",
             "altText": "",
             "url": "/Research Work",
-            "showIcon": true,
+            "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
