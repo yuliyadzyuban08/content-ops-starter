@@ -8,7 +8,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Microclimate Assessment for Urban Design1.jpg
+      url: /images/Microclimate Assessment for Urban Design_Page_1.jpg
       altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
