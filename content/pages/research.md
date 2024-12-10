@@ -6,50 +6,6 @@ sections:
     items:
       - type: FeaturedItem
         title: >-
-          Exploring the Relationship Between Design and Outdoor Thermal Comfort
-          in Hot and Dry Climate
-        tagline: ''
-        subtitle: 'Publication date : 2019 Authors : Yuliya Dzyuban'
-        text: >+
-          ###### Link : [Exploring the Relationship Between Design and Outdoor
-          Thermal Comfort in Hot and Dry
-          Climate](https://search.proquest.com/openview/85d63e0dfc467504beda6b29b37d2736/1?pq-origsite=gscholar\&cbl=18750\&diss=y)
-
-
-
-        image:
-          type: ImageBlock
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-        padding:
-          - pt-2
-          - pb-2
-      subtitle:
-        textAlign: center
-  - type: CarouselSection
-    items:
-      - type: FeaturedItem
-        title: >-
           Analyzing Public Transit Based Heat Exposure, Perception, and
           Behaviors to Enhance Climate Adaptation and Mitigation Strategies in
           the Southwest United States
