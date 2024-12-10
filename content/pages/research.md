@@ -5,47 +5,6 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: A news update from the students and new professionals group
-        tagline: ''
-        subtitle: >-
-          Publication date : 2022/2/1 Authors : Angela M Lees, Daniel J
-          Vecellio, Yuliya Dzyuban
-        text: >+
-          ###### Link : [A news update from the students and new professionals
-          group](https://link.springer.com/article/10.1007/s00484-021-02203-z)
-
-        image:
-          type: ImageBlock
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-        padding:
-          - pt-2
-          - pb-2
-      subtitle:
-        textAlign: center
-  - type: CarouselSection
-    items:
-      - type: FeaturedItem
         title: Exploring pedestrian thermal comfort in hot climates
         tagline: ''
         subtitle: >-
