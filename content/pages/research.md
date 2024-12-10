@@ -6,52 +6,6 @@ sections:
     items:
       - type: FeaturedItem
         title: >-
-          Analysing impacts of urban morphological variables and density on
-          outdoor microclimate for tropical cities: A review and a framework
-          proposal for future research directions
-        tagline: ''
-        subtitle: >-
-          Publication date : 11/01/2022 Authors : Shreya Banerjee, Sin Kang Yik,
-          Yuliya Dzyuban, Peter J Crank, Rachel Pek Xin Yi, Winston TL Chow
-        text: >+
-          ###### Link:  [Analysing impacts of urban morphological variables and
-          density on outdoor microclimate for tropical cities: A review and a
-          framework proposal for future research
-          directions](https://www.sciencedirect.com/science/article/pii/S0360132322008769)
-
-        image:
-          type: ImageBlock
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-        padding:
-          - pt-2
-          - pb-2
-      subtitle:
-        textAlign: center
-  - type: CarouselSection
-    items:
-      - type: FeaturedItem
-        title: >-
           Technological opportunities for sensing of the health effects of
           weather and climate change: a state-of-the-art-review
         tagline: ''
