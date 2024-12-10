@@ -79,14 +79,43 @@ sections:
           American Meteorological Society Annual Meeting
 
 
-          11\. 
+          11.[Relationship between humidity and physiology in warm and humid
+          conditions: A literature review
+          ](https://scholar.google.com/citations?view_op=view_citation\&hl=en\&user=f0NoRk8AAAAJ\&citation_for_view=f0NoRk8AAAAJ:UeHWp8X0CEIC)Y
+          Dzyuban
 
 
+          12\. [Exploring the Relationship Between Design and Outdoor Thermal
+          Comfort in Hot and Dry Climate
+          ](https://scholar.google.com/citations?view_op=view_citation\&hl=en\&user=f0NoRk8AAAAJ\&citation_for_view=f0NoRk8AAAAJ:9yKSN-GCB0IC)Y
+          DzyubanArizona State University
 
 
+          13\. [Analyzing Public Transit Based Heat Exposure, Perception, and
+          Behaviors to Enhance Climate Adaptation and Mitigation Strategies in
+          the Southwest United States
+          ](https://scholar.google.com/citations?view_op=view_citation\&hl=en\&user=f0NoRk8AAAAJ\&citation_for_view=f0NoRk8AAAAJ:d1gkVwhDpl0C)Y
+          Dzyuban, DM Hondula, A Middel99th American Meteorological Society
+          Annual Meeting
 
 
+          14\. [Analyzing transit-based heat exposure and behaviors to enhance
+          urban climate adaptation and mitigation strategies in the southwest
+          USA
+          ](https://scholar.google.com/citations?view_op=view_citation\&hl=en\&user=f0NoRk8AAAAJ\&citation_for_view=f0NoRk8AAAAJ:Tyk-4Ss8FVUC)Y
+          Dzyuban, D Hondula, C Redman, A MiddelMDPI AG
 
+
+          15\. [Report, May 29, 2017
+          ](https://scholar.google.com/citations?view_op=view_citation\&hl=en\&user=f0NoRk8AAAAJ\&citation_for_view=f0NoRk8AAAAJ:WF5omc3nYNoC)J
+          Arishi, H Azarabadi, J Casteneda, R De Leon, K Dwyer, Y Dzyuban, ...
+
+
+          16\. [Outdoor thermal comfort research in transient conditions: A
+          narrative literature review.(2022)
+          ](https://scholar.google.com/citations?view_op=view_citation\&hl=en\&user=f0NoRk8AAAAJ\&citation_for_view=f0NoRk8AAAAJ:ufrVoPGSRksC)Y
+          DZYUBAN, GNY CHING, SK YIK, AJ TAN, S BANERJEE, PJ CRANK, ...Landscape
+          and Urban Planning 226, 1-10
 
 
 
