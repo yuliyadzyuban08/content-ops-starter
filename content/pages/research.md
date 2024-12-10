@@ -3,17 +3,6 @@ type: PageLayout
 title: 'Research '
 sections:
   - type: CarouselSection
-    items: []
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-        padding:
-          - pb-2
-      subtitle:
-        textAlign: center
-  - type: CarouselSection
     items:
       - type: FeaturedItem
         title: >-
