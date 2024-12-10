@@ -5,7 +5,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Teconic Fellowship 2024-25
+        title: Taconic Fellowship 2024-25
         tagline: Feature 2
         subtitle: Be in good company
         text: >-
