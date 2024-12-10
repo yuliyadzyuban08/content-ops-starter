@@ -6,51 +6,6 @@ sections:
     items:
       - type: FeaturedItem
         title: >-
-          Outdoor thermal comfort research in transient conditions: A narrative
-          literature review
-        tagline: ''
-        subtitle: >-
-          Publication date : 10/01/2022 Authors: Yuliya Dzyuban, Graces NY
-          Ching, Sin Kang Yik, Adrian J Tan, Shreya Banerjee, Peter J Crank,
-          Winston TL Chow
-        text: >+
-          ###### Link : [Outdoor thermal comfort research in transient
-          conditions: A narrative literature
-          review](https://www.sciencedirect.com/science/article/pii/S0169204622001451)
-
-        image:
-          type: ImageBlock
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-        padding:
-          - pt-2
-          - pb-2
-      subtitle:
-        textAlign: center
-  - type: CarouselSection
-    items:
-      - type: FeaturedItem
-        title: >-
           Assessing impact of urban densification on outdoor microclimate and
           thermal comfort using ENVI-met simulations for Combined
           Spatial-Climatic Design (CSCD) approach
