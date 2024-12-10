@@ -6,51 +6,6 @@ sections:
     items:
       - type: FeaturedItem
         title: >-
-          Heat Walk: Perception of Thermal Comfort in Relation to Street
-          Infrastructure
-        tagline: ''
-        subtitle: >-
-          Publication date: 13/01/2020 Authors: Yuliya Dzyuban, David M Hondula,
-          Maggie Messerschmidt, Jennifer Vanos, Ariane Middel, Paul Coseo
-        text: >+
-          ###### Link: [Heat Walk: Perception of Thermal Comfort in Relation to
-          Street
-          Infrastructure](https://ams.confex.com/ams/2020Annual/meetingapp.cgi/Paper/364737)
-
-
-
-        image:
-          type: ImageBlock
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-        padding:
-          - pt-2
-      subtitle:
-        textAlign: center
-  - type: CarouselSection
-    items:
-      - type: FeaturedItem
-        title: >-
           Relationship between humidity and physiology in warm and humid
           conditions: A literature review
         tagline: ''
