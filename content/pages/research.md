@@ -6,53 +6,6 @@ sections:
     items:
       - type: FeaturedItem
         title: >-
-          Assessing impact of urban densification on outdoor microclimate and
-          thermal comfort using ENVI-met simulations for Combined
-          Spatial-Climatic Design (CSCD) approach
-        tagline: ''
-        subtitle: >-
-          Publication date : 06/01/2024  Authors : Shreya Banerjee, Rachel Xin
-          Yi Pek, Sin Kang Yik, Graces Ny Ching, Xiang Tian Ho, Yuliya Dzyuban,
-          Peter J Crank, Juan A Acero, Winston TL Chow
-        text: >+
-          Link : [Assessing impact of urban densification on outdoor
-          microclimate and thermal comfort using ENVI-met simulations for
-          Combined Spatial-Climatic Design (CSCD)
-          approach](https://www.sciencedirect.com/science/article/pii/S2210670724001306)
-
-        image:
-          type: ImageBlock
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-        padding:
-          - pt-2
-          - pb-2
-      subtitle:
-        textAlign: center
-  - type: CarouselSection
-    items:
-      - type: FeaturedItem
-        title: >-
           Sentiment analysis of weather-related tweets from cities within hot
           climates
         tagline: ''
