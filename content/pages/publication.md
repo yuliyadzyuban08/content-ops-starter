@@ -154,7 +154,7 @@ sections:
         justifyContent: center
         padding:
           - pt-2
-          - pb-2
+          - pb-7
       subtitle:
         textAlign: center
 slug: Publication
