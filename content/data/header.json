@@ -19,19 +19,21 @@
             "type": "Link"
         },
         {
-            "label": "Research",
-            "altText": "Research",
-            "url": "/Research",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
             "type": "Link",
             "label": "Teaching ",
             "altText": "Teaching ",
             "url": "/Teaching ",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
+            "type": "Link",
+            "label": "Research Work",
+            "altText": "",
+            "url": "/Research Work",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
