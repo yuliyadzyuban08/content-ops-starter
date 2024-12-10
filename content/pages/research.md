@@ -5,47 +5,6 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Exploring pedestrian thermal comfort in hot climates
-        tagline: ''
-        subtitle: >-
-          Publication date: 2020/5 Authors : Yuliya Dzyuban, Charles Redman,
-          David Hondula, Paul Coseo, Ariane Middel, Jennifer Vanos
-        text: >+
-          ###### Link: [Exploring pedestrian thermal comfort in hot
-          climates](https://ui.adsabs.harvard.edu/abs/2020EGUGA..22.8439D/abstract)
-
-        image:
-          type: ImageBlock
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-        padding:
-          - pt-2
-          - pb-2
-      subtitle:
-        textAlign: center
-  - type: CarouselSection
-    items:
-      - type: FeaturedItem
         title: >-
           Heat Walk: Perception of Thermal Comfort in Relation to Street
           Infrastructure
