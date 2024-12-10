@@ -1,16 +1,7 @@
 ---
 type: PageLayout
 title: Publication
-sections:
-  - type: CarouselSection
-    items: []
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
+sections: []
 slug: Publication
 isDraft: false
 seo:
