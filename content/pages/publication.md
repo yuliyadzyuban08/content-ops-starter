@@ -129,7 +129,6 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/082824_YULIYADZYUBAN-02.jpg
           altText: Featured item
           styles:
             self:
