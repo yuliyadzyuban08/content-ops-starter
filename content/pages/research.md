@@ -6,53 +6,6 @@ sections:
     items:
       - type: FeaturedItem
         title: >-
-          Technological opportunities for sensing of the health effects of
-          weather and climate change: a state-of-the-art-review
-        tagline: ''
-        subtitle: >-
-          Publication date : 2021/6  Authors: Vidya Anderson, Andrew CW Leung,
-          Hamed Mehdipoor, Britta Jänicke, Dragan Milošević, Ana Oliveira, S
-          Manavvi, Peter Kabano, Yuliya Dzyuban, Rosa Aguilar, Peter Nkashi
-          Agan, Jonah Joshua Kunda, Gustavo Garcia-Chapeton, Vinicius de Franca
-          Carvalho Fonseca, Sheila Tavares Nascimento, Raul Zurita-Milla 
-        text: >+
-          ###### Link : [Technological opportunities for sensing of the health
-          effects of weather and climate change: a
-          state-of-the-art-review](https://link.springer.com/article/10.1007/s00484-020-02063-z)
-
-        image:
-          type: ImageBlock
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-        padding:
-          - pt-2
-          - pb-2
-      subtitle:
-        textAlign: center
-  - type: CarouselSection
-    items:
-      - type: FeaturedItem
-        title: >-
           Outdoor thermal comfort research in transient conditions: A narrative
           literature review
         tagline: ''
