@@ -153,7 +153,7 @@ sections:
       self:
         justifyContent: center
         padding:
-          - pt-2
+          - pt-7
           - pb-7
       subtitle:
         textAlign: center
