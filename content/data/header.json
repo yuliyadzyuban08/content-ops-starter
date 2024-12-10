@@ -31,9 +31,9 @@
         },
         {
             "type": "Link",
-            "label": "Public Work",
+            "label": "Research Work",
             "altText": "",
-            "url": "/Public Work",
+            "url": "/Research Work",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -42,9 +42,9 @@
         },
         {
             "type": "Link",
-            "label": "Research Work",
+            "label": "Public Work",
             "altText": "",
-            "url": "/Research Work",
+            "url": "/Public Work",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
