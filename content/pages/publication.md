@@ -7,7 +7,7 @@ sections:
       - type: FeaturedItem
         title: ''
         tagline: ''
-        subtitle: Assistant Professor
+        subtitle: ''
         text: >+
           1.  [Public transit infrastructure and heat perceptions in hot and dry
           climates
