@@ -5,7 +5,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Yuliya Dzyuban
+        title: ''
         tagline: ''
         subtitle: Assistant Professor
         text: >+
