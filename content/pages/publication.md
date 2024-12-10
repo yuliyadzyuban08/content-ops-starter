@@ -5,7 +5,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: ''
+        title: Yuliya Dzyuban
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
