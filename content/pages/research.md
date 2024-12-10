@@ -6,51 +6,6 @@ sections:
     items:
       - type: FeaturedItem
         title: >-
-          Evidence of alliesthesia during a neighborhood thermal walk in a hot
-          and dry city
-        tagline: ''
-        subtitle: >-
-          Publication date : 15/08/2022    Authors: Yuliya Dzyuban, David M
-          Hondula, Jennifer K Vanos, Ariane Middel, Paul J Coseo, Evan R Kuras,
-          Charles L Redman
-        text: >+
-          ###### Link: [ Evidence of alliesthesia during a neighborhood thermal
-          walk in a hot and dry
-          city](https://www.sciencedirect.com/science/article/pii/S0048969722023877)
-
-        image:
-          type: ImageBlock
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-        padding:
-          - pb-2
-          - pt-2
-      subtitle:
-        textAlign: center
-  - type: CarouselSection
-    items:
-      - type: FeaturedItem
-        title: >-
           Public transit infrastructure and heat perceptions in hot and dry
           climates
         tagline: Feature 1
