@@ -7,7 +7,7 @@ sections:
       - type: FeaturedItem
         title: Taconic Fellowship 2024-25
         tagline: Feature 2
-        subtitle: Building Collective Stroy of North Brooklyn Heat Experinece
+        subtitle: Building Collective Stroy of North Brooklyn Heat Experience
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
