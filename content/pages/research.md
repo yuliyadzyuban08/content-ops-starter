@@ -3,49 +3,6 @@ type: PageLayout
 title: 'Research '
 sections:
   - type: CarouselSection
-    items:
-      - type: FeaturedItem
-        title: >-
-          Relationship between humidity and physiology in warm and humid
-          conditions: A literature review
-        tagline: ''
-        subtitle: 'Publication date: 2020 Authors: Yuliya Dzyuban'
-        text: >+
-          ###### Link : [Relationship between humidity and physiology in warm
-          and humid conditions: A literature
-          review](https://ink.library.smu.edu.sg/soss_research/3243/)
-
-
-
-        image:
-          type: ImageBlock
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-        padding:
-          - pt-2
-      subtitle:
-        textAlign: center
-  - type: CarouselSection
     items: []
     variant: tabs-nav
     colors: bg-light-fg-dark
