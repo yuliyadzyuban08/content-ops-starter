@@ -45,7 +45,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/Urban Heat Management_Page_1.jpg
+      url: /images/Urban Heat Management (1)_Page_1.jpg
       altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
