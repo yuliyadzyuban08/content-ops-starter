@@ -6,47 +6,6 @@ sections:
     items:
       - type: FeaturedItem
         title: >-
-          Analyzing Public Transit Based Heat Exposure, Perception, and
-          Behaviors to Enhance Climate Adaptation and Mitigation Strategies in
-          the Southwest United States
-        tagline: ''
-        subtitle: >-
-          Publication date: 01/09/2019 Authors: Yuliya Dzyuban, David M Hondula,
-          Ariane Middel
-        text: "Link: \_[Analyzing Public Transit Based Heat Exposure, Perception, and Behaviors to Enhance Climate Adaptation and Mitigation Strategies in the Southwest United States\n](https://ams.confex.com/ams/2019Annual/meetingapp.cgi/Paper/351614)\n"
-        image:
-          type: ImageBlock
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-        padding:
-          - pt-2
-          - pb-2
-      subtitle:
-        textAlign: center
-  - type: CarouselSection
-    items:
-      - type: FeaturedItem
-        title: >-
           Analyzing transit-based heat exposure and behaviors to enhance urban
           climate adaptation and mitigation strategies in the southwest USA
         tagline: ''
