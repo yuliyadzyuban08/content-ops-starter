@@ -20,7 +20,7 @@ sections:
           - pb-2
     title:
       type: TitleBlock
-      text: Microclimate Assessment for Urban Design
+      text: ''
       color: text-dark
   - type: GenericSection
     title:
