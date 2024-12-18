@@ -43,7 +43,7 @@ sections:
     text: ''
     actions:
       - type: Link
-        label: See Tutorials
+        label: Event Information
         url: /
         showIcon: true
         icon: arrowRight
