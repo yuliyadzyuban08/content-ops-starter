@@ -36,6 +36,7 @@ sections:
         flexDirection: row-reverse
         padding:
           - pt-2
+          - pb-2
 slug: Workshops & Events
 isDraft: false
 seo:
