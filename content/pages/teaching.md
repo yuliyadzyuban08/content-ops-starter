@@ -79,7 +79,16 @@ sections:
       nature-based solutions to address both site-specific, and broader societal
       and ecological challenges.
 
-    actions: []
+    actions:
+      - type: Link
+        label: See Tutorials
+        altText: ''
+        url: /Green Infrastructure Studio
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/IMG_7069.jpg
