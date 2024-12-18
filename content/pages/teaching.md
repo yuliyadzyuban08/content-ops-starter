@@ -5,16 +5,7 @@ sections:
   - type: GenericSection
     subtitle: ''
     text: "Cities are rapidly warming due to climate change and urbanization, posing significant threats to health and thermal comfort through extreme heat events and urban overheating. Understanding the relationship between microclimate and urban form is essential for designing more livable environments. A This project-based class will explore the interplay between urban planning, design, microclimate, and\_human\_health. Students learn microclimate monitoring methods, basics of human energy balance, and techniques to estimate & visualize personal heat exposure and thermal comfort. The course includes conducting microclimate monitoring fieldwork with smart mobile sensors, analyzing and visualizing environmental data, and calculating thermal comfort indices to provide evidence-based recommendations for neighborhood\_improvements.\n"
-    actions:
-      - type: Link
-        label: See Tutorials
-        altText: ''
-        url: /micro
-        showIcon: false
-        icon: arrowDown
-        iconPosition: left
-        style: primary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/Microclimate Assessment for Urban Design_Page_1.jpg
