@@ -80,7 +80,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/IMG_3079.jpg
-        altText: Wellster logo
+        altText: ''
         elementId: ''
       - type: ImageBlock
         url: /images/vise-logo.svg
