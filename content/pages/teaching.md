@@ -4,12 +4,7 @@ title: Teaching
 sections:
   - type: GenericSection
     subtitle: Microclimate Assessment for Urban Design
-    text: >
-      Cities are rapidly warming due to climate change and urbanization, posing
-      significant threats to health and thermal comfort through extreme heat
-      events and urban overheating. Understanding the relationship between
-      microclimate and urban form is essential for designing more livable
-      environments.
+    text: ''
     actions:
       - type: Link
         label: Explore More
