@@ -32,6 +32,8 @@ sections:
         padding:
           - pt-2
           - pb-2
+      subtitle:
+        fontWeight: 700
   - type: GenericSection
     title:
       type: TitleBlock
