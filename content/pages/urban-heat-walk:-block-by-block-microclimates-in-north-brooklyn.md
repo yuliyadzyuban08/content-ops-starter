@@ -5,7 +5,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: 'Urban Heat Walk: Block-by-Block Microclimates in North Brooklyn'
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
