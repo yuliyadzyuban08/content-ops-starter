@@ -12,7 +12,7 @@ sections:
     actions:
       - type: Link
         label: Explore More
-        url: /
+        url: /NPCC
         showIcon: true
         icon: arrowRight
         iconPosition: right
