@@ -3,7 +3,7 @@ type: PostLayout
 title: AIA Urban Microclimate Workshop
 date: '2024-10-08'
 author: content/data/person1.json
-excerpt: The Blog is Coming Soon...
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/IMG_6058 (1).jpg
