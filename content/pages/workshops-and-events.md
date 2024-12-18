@@ -22,7 +22,7 @@ sections:
     hoverEffect: thin-underline
     styles:
       self:
-        justifyContent: center
+        justifyContent: flex-start
 slug: Workshops & Events
 isDraft: false
 seo:
