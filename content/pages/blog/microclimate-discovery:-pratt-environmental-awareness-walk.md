@@ -32,7 +32,7 @@ bottomSections:
     images:
       - type: ImageBlock
         url: /images/a.jpeg
-        altText: Empathy logo
+        altText: ''
         elementId: ''
       - type: ImageBlock
         url: /images/wellster-logo.svg
