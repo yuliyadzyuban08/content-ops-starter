@@ -39,7 +39,7 @@ bottomSections:
         altText: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/vise-logo.svg
+        url: /images/c.jpeg
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
