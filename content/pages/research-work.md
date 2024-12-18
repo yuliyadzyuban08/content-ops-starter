@@ -42,7 +42,7 @@ sections:
               - pb-1
               - pl-9
               - pr-9
-            textAlign: justify
+            textAlign: center
             borderRadius: large
             flexDirection: row
             justifyContent: center
