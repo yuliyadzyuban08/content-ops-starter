@@ -113,7 +113,7 @@ sections:
     actions:
       - type: Link
         label: AIA Urban Microclimate Workshop
-        url: /
+        url: /AIA Urban Microclimate Workshop
         showIcon: true
         icon: arrowRight
         iconPosition: right
