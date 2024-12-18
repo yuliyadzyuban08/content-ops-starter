@@ -22,9 +22,9 @@
         },
         {
             "type": "Link",
-            "label": "Research Work",
+            "label": "Home",
             "altText": "",
-            "url": "/Research Work",
+            "url": "/",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -33,9 +33,9 @@
         },
         {
             "type": "Link",
-            "label": "Home",
+            "label": "Research Work",
             "altText": "",
-            "url": "/",
+            "url": "/Research Work",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
