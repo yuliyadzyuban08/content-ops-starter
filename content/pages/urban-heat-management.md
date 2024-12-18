@@ -11,6 +11,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    subtitle: Urban Heat Management
 slug: Urban Heat Management
 isDraft: false
 seo:
