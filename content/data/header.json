@@ -1,6 +1,17 @@
 {
     "primaryLinks": [
         {
+            "type": "Link",
+            "label": "Home",
+            "altText": "",
+            "url": "/",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "elementId": ""
+        },
+        {
             "label": "Workshops & Events",
             "altText": "Workshops & Events",
             "url": "/Workshops & Events",
