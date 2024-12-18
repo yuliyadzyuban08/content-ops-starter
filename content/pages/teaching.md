@@ -48,7 +48,16 @@ sections:
       In this class, we will explore the complex interactions
       between rising temperatures, urban infrastructure, and
       public health through the lens of environmental justice.
-    actions: []
+    actions:
+      - type: Link
+        label: See Tutorials
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/Urban Heat Management (1)_Page_1.jpg
