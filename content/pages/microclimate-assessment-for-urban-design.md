@@ -44,6 +44,7 @@ sections:
       - type: ImageBlock
         altText: ''
         elementId: ''
+        url: /images/IMG_5909.jpg
       - type: ImageBlock
         altText: Vise logo
         elementId: ''
