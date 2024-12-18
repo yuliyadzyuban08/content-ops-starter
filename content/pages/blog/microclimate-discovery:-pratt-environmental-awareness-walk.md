@@ -31,7 +31,7 @@ bottomSections:
     subtitle: Event Gallery
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/a.jpeg
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
