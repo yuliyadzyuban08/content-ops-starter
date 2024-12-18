@@ -47,10 +47,6 @@ sections:
         altText: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/wellster-logo.svg
-        altText: Wellster logo
-        elementId: ''
-      - type: ImageBlock
         url: /images/sanity-logo.svg
         altText: Sanity logo
         elementId: ''
