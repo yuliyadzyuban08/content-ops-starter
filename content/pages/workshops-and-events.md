@@ -8,9 +8,10 @@ sections:
       text: 'Microclimate Discovery: Pratt Environmental Awareness Walk'
       color: text-dark
     subtitle: ''
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      April 6, 2024 | Yuliya Dzyuban, Assistant Professor, Graduate Center for
+      Planning and the Environment, Pratt Institute
+
     actions:
       - type: Button
         label: Get started
