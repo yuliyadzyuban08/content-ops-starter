@@ -42,7 +42,7 @@ sections:
     subtitle: Class Gallery
     images:
       - type: ImageBlock
-        altText: Empathy logo
+        altText: ''
         elementId: ''
       - type: ImageBlock
         altText: Vise logo
