@@ -15,7 +15,7 @@ sections:
         label: Explore More
         altText: ''
         url: /Microclimate Assessment for Urban Design
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
