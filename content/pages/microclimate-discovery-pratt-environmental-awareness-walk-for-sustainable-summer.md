@@ -10,7 +10,7 @@ sections:
         title: >-
           Microclimate Discovery Pratt Environmental Awareness Walk for
           Sustainable Summer
-        tagline: Feature 1
+        tagline: ''
         subtitle: Increase your reach
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
