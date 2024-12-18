@@ -49,9 +49,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-        altText: >-
-          Microclimate Discovery Pratt Environmental Awareness Walk for
-          Sustainable Summer
+        altText: ''
     media:
       type: ImageBlock
       url: /images/image_67200769 (1).JPG
