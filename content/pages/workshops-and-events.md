@@ -73,7 +73,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: ''
+      text: 'Urban Heat Walk: Block-by-Block Microclimates in North Brooklyn'
       color: text-dark
     subtitle: Be in good company
     text: >
