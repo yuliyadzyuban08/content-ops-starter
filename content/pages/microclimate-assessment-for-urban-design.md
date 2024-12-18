@@ -50,7 +50,7 @@ sections:
         elementId: ''
         url: /images/IMG_5954.jpeg
       - type: ImageBlock
-        altText: Telus logo
+        altText: ''
         elementId: ''
       - type: ImageBlock
         altText: Contentful logo
