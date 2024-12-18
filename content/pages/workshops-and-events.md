@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: 'Microclimate Discovery: Pratt Environmental Awareness Walk'
+      text: ''
       color: text-dark
     subtitle: ''
     text: >+
