@@ -68,6 +68,7 @@ sections:
         justifyContent: center
         padding:
           - pt-1
+          - pb-1
       subtitle:
         textAlign: center
 slug: 'Microclimate Discovery: Pratt Environmental Awareness Walk'
