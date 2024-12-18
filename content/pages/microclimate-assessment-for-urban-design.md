@@ -53,7 +53,7 @@ sections:
         altText: ''
         elementId: ''
       - type: ImageBlock
-        altText: Contentful logo
+        altText: ''
         elementId: ''
       - type: ImageBlock
         altText: Sanity logo
