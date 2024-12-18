@@ -46,7 +46,7 @@ sections:
     subtitle: Event Gallery
     images:
       - type: ImageBlock
-        url: /images/sanity-logo.svg
+        url: /images/IMG_6167.jpg
         altText: Sanity logo
         elementId: ''
       - type: ImageBlock
