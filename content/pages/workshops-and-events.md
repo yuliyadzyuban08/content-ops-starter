@@ -82,7 +82,7 @@ sections:
     actions:
       - type: Link
         label: Event Information
-        url: /
+        url: '/Urban Heat Walk: Block-by-Block Microclimates in North Brooklyn'
         showIcon: true
         icon: arrowRight
         iconPosition: right
