@@ -5,9 +5,9 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Yuliya Dzyuban
+        title: ''
         tagline: ''
-        subtitle: Assistant Professor
+        subtitle: ''
         text: >+
           1.  [Public transit infrastructure and heat perceptions in hot and dry
           climates
@@ -129,7 +129,6 @@ sections:
 
         image:
           type: ImageBlock
-          url: /images/082824_YULIYADZYUBAN-02.jpg
           altText: Featured item
           styles:
             self:
