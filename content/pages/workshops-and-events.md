@@ -112,7 +112,7 @@ sections:
 
     actions:
       - type: Link
-        label: ''
+        label: Event Information
         url: /AIA Urban Microclimate Workshop
         showIcon: true
         icon: arrowRight
