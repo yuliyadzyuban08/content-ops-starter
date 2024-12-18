@@ -84,7 +84,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/a.jpeg
-        altText: Vise logo
+        altText: ''
         elementId: ''
       - type: ImageBlock
         url: /images/telus-logo.svg
