@@ -88,7 +88,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/d.jpeg
-        altText: Telus logo
+        altText: ''
         elementId: ''
       - type: ImageBlock
         url: /images/contenful-logo.svg
