@@ -6,7 +6,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Taconic Fellowship 2024-25
-        tagline: Feature 2
+        tagline: ''
         subtitle: Building Collective Stroy of North Brooklyn Heat Experience
         text: >
           NYC is rapidly warming due to compound effects of climate change and
