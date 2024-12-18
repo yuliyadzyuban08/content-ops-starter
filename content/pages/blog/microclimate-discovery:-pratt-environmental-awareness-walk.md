@@ -28,7 +28,7 @@ bottomSections:
           - pb-3
           - pr-3
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: 'Event '
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
