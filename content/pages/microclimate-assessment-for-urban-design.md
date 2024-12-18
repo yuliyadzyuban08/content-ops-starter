@@ -48,6 +48,7 @@ sections:
       - type: ImageBlock
         altText: ''
         elementId: ''
+        url: /images/IMG_5954.jpeg
       - type: ImageBlock
         altText: Telus logo
         elementId: ''
