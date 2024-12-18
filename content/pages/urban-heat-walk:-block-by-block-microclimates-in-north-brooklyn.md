@@ -47,7 +47,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/IMG_6167.jpg
-        altText: Sanity logo
+        altText: ''
         elementId: ''
       - type: ImageBlock
         url: /images/rangle-logo.svg
