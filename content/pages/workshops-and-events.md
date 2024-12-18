@@ -1,40 +1,7 @@
 ---
 type: PageLayout
 title: Workshops & Events
-sections:
-  - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: Workshops &  Events
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    posts:
-      - >-
-        content/pages/blog/microclimate-discovery:-pratt-environmental-awareness-walk.md
-      - >-
-        content/pages/blog/microclimate-discovery-pratt-environmental-awareness-walk-for-sustainable-summer.md
-      - >-
-        content/pages/blog/urban-heat-walk:-block-by-block-microclimates-in-north-brooklyn.md
-      - content/pages/blog/aia-urban-microclimate-workshop.md
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: big-list
-    colors: bg-light-fg-dark
-    hoverEffect: thin-underline
-    styles:
-      self:
-        padding:
-          - pt-2
-          - pl-16
-          - pb-2
-          - pr-16
-        justifyContent: center
+sections: []
 slug: Workshops & Events
 isDraft: false
 seo:
