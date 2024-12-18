@@ -1,0 +1,14 @@
+---
+type: PageLayout
+title: 'Urban Heat Walk: Block-by-Block Microclimates in North Brooklyn'
+sections: []
+slug: 'Urban Heat Walk: Block-by-Block Microclimates in North Brooklyn'
+isDraft: false
+seo:
+  type: Seo
+  metaTitle: Landing Page
+  metaDescription: Write here your new page's description including most relevant keywords.
+  addTitleSuffix: true
+  socialImage: /images/main-hero.jpg
+  metaTags: []
+---
