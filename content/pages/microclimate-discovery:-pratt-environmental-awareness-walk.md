@@ -5,7 +5,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: 'Microclimate Discovery: Pratt Environmental Awareness Walk'
         tagline: Feature 1
         subtitle: Increase your reach
         text: >-
