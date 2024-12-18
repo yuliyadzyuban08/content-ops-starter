@@ -12,13 +12,6 @@ sections:
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
           explicabo.
-        image:
-          type: ImageBlock
-          url: /images/img-placeholder.svg
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
