@@ -40,6 +40,8 @@ colors: bg-neutral-fg-dark
 styles:
   self:
     flexDirection: row
+    margin:
+      - mb-5
 author: content/data/person1.json
 ---
 The Microclimate Discovery Environmental Walk, hosted by Yuliya Dzyuban, Melissa Ingaruca Moreno, and Kasturi Salvi during Pratt Climate Action Week in partnership with the Brooklyn Greenway initiative, aimed to focus on climate change's impact on both New York City's residents and ecosystems. This unique experience offered participants a chance to delve into the intricate world of urban microclimates, uncovering the hidden environmental dynamics near Pratt's campus neighborhood.
