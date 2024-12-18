@@ -87,7 +87,8 @@ sections:
       styles:
         self:
           textAlign: center
-    posts: []
+    posts:
+      - content/pages/blog/microclimate-assessment.md
     showThumbnail: true
     showExcerpt: true
     showDate: true
