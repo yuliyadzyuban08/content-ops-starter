@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: ''
+    subtitle: 'Microclimate Discovery: Pratt Environmental Awareness Walk'
     text: >+
       April 6, 2024 | Yuliya Dzyuban, Assistant Professor, Graduate Center for
       Planning and the Environment, Pratt Institute
