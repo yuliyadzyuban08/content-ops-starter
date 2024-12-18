@@ -55,9 +55,9 @@
         },
         {
             "type": "Link",
-            "label": "News and Media",
+            "label": "Home",
             "altText": "",
-            "url": "/News and Media",
+            "url": "/",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -66,9 +66,9 @@
         },
         {
             "type": "Link",
-            "label": "Home",
+            "label": "News and Media",
             "altText": "",
-            "url": "/",
+            "url": "/News and Media",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
