@@ -56,7 +56,6 @@ sections:
     subtitle: Class Gallery
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
