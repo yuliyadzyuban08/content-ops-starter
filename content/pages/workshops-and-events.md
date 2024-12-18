@@ -3,13 +3,6 @@ type: PageLayout
 title: Workshops & Events
 sections:
   - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: Featured posts
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
     posts: []
     showThumbnail: true
     showExcerpt: true
