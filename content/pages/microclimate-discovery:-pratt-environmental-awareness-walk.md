@@ -83,7 +83,7 @@ sections:
         altText: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/vise-logo.svg
+        url: /images/a.jpeg
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
