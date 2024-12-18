@@ -40,7 +40,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: Event Gallery
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg
