@@ -65,7 +65,7 @@ sections:
       self:
         margin:
           - mt-0
-          - ml-20
+          - ml-28
           - mb-0
           - mr-20
         padding:
