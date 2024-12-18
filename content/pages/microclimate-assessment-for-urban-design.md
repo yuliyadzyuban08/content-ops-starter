@@ -83,10 +83,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    title:
-      type: TitleBlock
-      text: This Is A Big Headline
-      color: text-dark
 slug: Microclimate Assessment for Urban Design
 isDraft: false
 seo:
