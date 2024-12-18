@@ -7,7 +7,9 @@ sections:
       - type: FeaturedItem
         title: 'Urban Heat Walk: Block-by-Block Microclimates in North Brooklyn'
         tagline: ''
-        subtitle: Increase your reach
+        subtitle: >-
+          September 4, 2024 |Yuliya Dzyuban, Assistant Professor, Graduate
+          Center for Planning and the Environment, Pratt Institute
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
