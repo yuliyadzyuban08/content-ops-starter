@@ -40,7 +40,12 @@ sections:
         Sustainable Summer
       color: text-dark
     subtitle: ''
-    text: ''
+    text: >+
+      July 25, 2024| Yuliya Dzyuban, Assistant Professor, Graduate Center for
+      Planning and the Environment, Pratt Institute
+
+
+
     actions:
       - type: Link
         label: Event Information
