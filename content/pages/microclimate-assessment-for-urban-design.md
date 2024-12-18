@@ -74,6 +74,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 700
 slug: Microclimate Assessment for Urban Design
 isDraft: false
 seo:
