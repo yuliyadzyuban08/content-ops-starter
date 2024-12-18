@@ -43,7 +43,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: ''
+    subtitle: Urban Heat Management
     text: |
       In this class, we will explore the complex interactions
       between rising temperatures, urban infrastructure, and
