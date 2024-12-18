@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: ''
       color: text-dark
-    subtitle: ''
+    subtitle: NPCC Member
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
