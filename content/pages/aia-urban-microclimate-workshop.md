@@ -10,10 +10,9 @@ sections:
         subtitle: >-
           October 8, 2024| Yuliya Dzyuban, Assistant Professor, Graduate Center
           for Planning and the Environment, Pratt Institute
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          The Blog is Coming Soon...
+
         image:
           type: ImageBlock
           altText: Featured item
