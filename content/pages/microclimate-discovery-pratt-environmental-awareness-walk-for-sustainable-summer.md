@@ -49,7 +49,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/image_67548929 (1).JPG
-        altText: Wellster logo
+        altText: ''
         elementId: ''
       - type: ImageBlock
         url: /images/vise-logo.svg
