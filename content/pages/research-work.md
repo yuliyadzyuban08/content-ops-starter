@@ -26,7 +26,7 @@ sections:
               borderRadius: medium
         actions:
           - type: Link
-            label: See Tutorials
+            label: Explore More
             altText: ''
             url: /Taconic Fellowship 2024-25
             showIcon: true
