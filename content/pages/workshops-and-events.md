@@ -1,26 +1,7 @@
 ---
 type: PageLayout
 title: Workshops & Events
-sections:
-  - type: FeaturedPostsSection
-    posts: []
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: big-list
-    colors: bg-light-fg-dark
-    hoverEffect: thin-underline
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
+sections: []
 slug: Workshops & Events
 isDraft: false
 seo:
