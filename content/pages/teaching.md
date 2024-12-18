@@ -24,7 +24,6 @@ sections:
           - pt-2
           - pb-2
       subtitle:
-        textDecoration: underline
         fontWeight: 700
     title:
       type: TitleBlock
