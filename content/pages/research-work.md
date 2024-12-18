@@ -31,7 +31,7 @@ sections:
             url: /Taconic Fellowship 2024-25
             showIcon: false
             icon: arrowRight
-            iconPosition: right
+            iconPosition: left
             style: primary
             elementId: ''
         colors: bg-light-fg-dark
