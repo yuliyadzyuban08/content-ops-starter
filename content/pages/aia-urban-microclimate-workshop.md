@@ -6,7 +6,9 @@ sections:
     items:
       - type: FeaturedItem
         title: AIA Urban Microclimate Workshop
-        tagline: Feature 1
+        tagline: >-
+          October 8, 2024| Yuliya Dzyuban, Assistant Professor, Graduate Center
+          for Planning and the Environment, Pratt Institute
         subtitle: Increase your reach
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
