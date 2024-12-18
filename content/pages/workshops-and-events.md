@@ -15,7 +15,7 @@ sections:
     actions:
       - type: Link
         label: Event Information
-        url: /
+        url: '/Microclimate Discovery: Pratt Environmental Awareness Walk'
         showIcon: true
         icon: arrowRight
         iconPosition: right
