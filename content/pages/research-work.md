@@ -29,7 +29,7 @@ sections:
             label: See Tutorials
             altText: ''
             url: /Taconic Fellowship 2024-25
-            showIcon: false
+            showIcon: true
             icon: arrowRight
             iconPosition: left
             style: primary
