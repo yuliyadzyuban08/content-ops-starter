@@ -46,7 +46,7 @@ sections:
         elementId: ''
         url: /images/IMG_5909.jpg
       - type: ImageBlock
-        altText: Vise logo
+        altText: ''
         elementId: ''
       - type: ImageBlock
         altText: Telus logo
