@@ -36,7 +36,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: ''
+    subtitle: Class Gallery
     images:
       - type: ImageBlock
         altText: Empathy logo
