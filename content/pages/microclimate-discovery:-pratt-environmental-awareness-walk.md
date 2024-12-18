@@ -87,7 +87,7 @@ sections:
         altText: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/telus-logo.svg
+        url: /images/d.jpeg
         altText: Telus logo
         elementId: ''
       - type: ImageBlock
