@@ -10,7 +10,16 @@ sections:
       events and urban overheating. Understanding the relationship between
       microclimate and urban form is essential for designing more livable
       environments.
-    actions: []
+    actions:
+      - type: Link
+        label: See Tutorials
+        altText: ''
+        url: /Microclimate Assessment for Urban Design
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
     media:
       type: ImageBlock
       url: /images/Microclimate Assessment for Urban Design_Page_1.jpg
