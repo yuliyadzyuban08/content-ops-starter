@@ -20,7 +20,7 @@ sections:
           - pb-2
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: ''
       color: text-dark
   - type: GenericSection
     title:
