@@ -106,9 +106,10 @@ sections:
       text: AIA Urban Microclimate Workshop
       color: text-dark
     subtitle: ''
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: >+
+      October 8, 2024| Yuliya Dzyuban, Assistant Professor, Graduate Center for
+      Planning and the Environment, Pratt Institute
+
     actions:
       - type: Button
         label: Get started
