@@ -56,7 +56,7 @@ sections:
         altText: ''
         elementId: ''
       - type: ImageBlock
-        altText: Sanity logo
+        altText: ''
         elementId: ''
       - type: ImageBlock
         altText: Rangle logo
