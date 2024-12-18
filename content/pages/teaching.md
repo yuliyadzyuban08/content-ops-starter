@@ -51,7 +51,7 @@ sections:
     actions:
       - type: Link
         label: Explore More
-        altText: Explore More
+        altText: ''
         url: /Urban Heat Management
         showIcon: true
         icon: arrowRight
