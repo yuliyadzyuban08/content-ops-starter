@@ -39,6 +39,7 @@ sections:
         justifyContent: center
         padding:
           - pt-1
+          - pb-1
       subtitle:
         textAlign: center
 slug: 'Urban Heat Walk: Block-by-Block Microclimates in North Brooklyn'
