@@ -35,7 +35,9 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Business Consulting
+      text: >-
+        Microclimate Discovery Pratt Environmental Awareness Walk for
+        Sustainable Summer
       color: text-dark
     subtitle: Be in good company
     text: >
