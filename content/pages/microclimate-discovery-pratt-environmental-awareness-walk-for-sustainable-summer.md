@@ -48,7 +48,7 @@ sections:
         altText: ''
         elementId: ''
       - type: ImageBlock
-        url: /images/wellster-logo.svg
+        url: /images/image_67548929 (1).JPG
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
