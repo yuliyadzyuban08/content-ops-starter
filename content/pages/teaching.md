@@ -23,6 +23,8 @@ sections:
         padding:
           - pt-2
           - pb-2
+      subtitle:
+        textDecoration: underline
     title:
       type: TitleBlock
       text: ''
