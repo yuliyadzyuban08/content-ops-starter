@@ -12,7 +12,7 @@ sections:
       environments.
     actions:
       - type: Link
-        label: See Tutorials
+        label: Explore More
         altText: ''
         url: /Microclimate Assessment for Urban Design
         showIcon: false
