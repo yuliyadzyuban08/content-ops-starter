@@ -58,9 +58,6 @@ sections:
       - type: ImageBlock
         altText: ''
         elementId: ''
-      - type: ImageBlock
-        altText: ''
-        elementId: ''
     elementId: ''
     motion: static
     colors: bg-light-fg-dark
