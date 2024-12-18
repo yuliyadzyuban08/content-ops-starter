@@ -81,7 +81,7 @@ sections:
 
     actions:
       - type: Link
-        label: See Tutorials
+        label: Explore More
         altText: ''
         url: /Green Infrastructure Studio
         showIcon: false
