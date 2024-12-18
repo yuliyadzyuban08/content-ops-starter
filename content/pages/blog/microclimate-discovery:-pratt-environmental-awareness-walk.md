@@ -44,7 +44,7 @@ bottomSections:
         elementId: ''
       - type: ImageBlock
         url: /images/rangle-logo.svg
-        altText: Rangle logo
+        altText: ''
         elementId: ''
     elementId: ''
     motion: static
