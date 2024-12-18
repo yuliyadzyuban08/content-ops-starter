@@ -84,7 +84,7 @@ sections:
         label: Explore More
         altText: ''
         url: /Green Infrastructure Studio
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
