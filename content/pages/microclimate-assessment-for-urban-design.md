@@ -40,7 +40,7 @@ sections:
     subtitle: ''
     images:
       - type: ImageBlock
-        url: /images/empathy-logo.svg
+        url: /images/IMG_3076l.jpg
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
