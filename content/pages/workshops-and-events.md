@@ -44,7 +44,9 @@ sections:
     actions:
       - type: Link
         label: Event Information
-        url: /
+        url: >-
+          /Microclimate Discovery Pratt Environmental Awareness Walk for
+          Sustainable Summer
         showIcon: true
         icon: arrowRight
         iconPosition: right
