@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: NPCC 5 Member
+      text: NPCC 5
       color: text-dark
     subtitle: ''
     text: "\nI have been selected as a member of the New York City Panel on Climate Change under the Mayor's Office of Climate and Environmental Justice! For the next three years, I will be working together with the stellar team of scientists and practitioners, synthesizing state-of-the-art scientific findings regarding climate related risks and impacts the city is facing due to climate change. I am honored to be part of this important work aimed to inform NYC policy and planning towards enhanced climate resilience\_and\_justice!\n\n"
