@@ -18,6 +18,10 @@ sections:
         padding:
           - pt-2
           - pb-2
+    title:
+      type: TitleBlock
+      text: This Is A Big Headline
+      color: text-dark
   - type: GenericSection
     title:
       type: TitleBlock
