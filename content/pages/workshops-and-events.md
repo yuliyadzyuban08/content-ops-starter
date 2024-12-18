@@ -34,6 +34,8 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
+        padding:
+          - pt-2
 slug: Workshops & Events
 isDraft: false
 seo:
