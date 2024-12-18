@@ -73,7 +73,7 @@ sections:
       subtitle:
         fontWeight: 700
   - type: GenericSection
-    subtitle: ''
+    subtitle: Green Infrastructure Studio
     text: "The Green Infrastructure Studio aims to develop a design proposal using nature-based solutions to address both site-specific, and broader societal and ecological challenges.\n\nThrough interactive sessions with multidisciplinary speakers, discussions on selected readings, and site visits, students grasp the principles of site analysis, green infrastructure construction and maintenance, valuation of nature-based solutions, and environmental justice, enabling them to develop a comprehensive design\_proposal.\n"
     actions: []
     media:
