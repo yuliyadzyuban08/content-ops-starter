@@ -72,7 +72,7 @@ sections:
           - pt-16
           - pl-16
           - pb-16
-          - pr-5
+          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
