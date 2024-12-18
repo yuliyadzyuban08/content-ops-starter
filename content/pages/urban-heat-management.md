@@ -56,10 +56,6 @@ sections:
     subtitle: Class Gallery
     images:
       - type: ImageBlock
-        url: /images/wellster-logo.svg
-        altText: ''
-        elementId: ''
-      - type: ImageBlock
         url: /images/vise-logo.svg
         altText: Vise logo
         elementId: ''
