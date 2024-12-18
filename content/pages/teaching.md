@@ -11,7 +11,7 @@ sections:
         altText: ''
         url: /micro
         showIcon: false
-        icon: chevronLeft
+        icon: arrowUp
         iconPosition: right
         style: secondary
         elementId: ''
