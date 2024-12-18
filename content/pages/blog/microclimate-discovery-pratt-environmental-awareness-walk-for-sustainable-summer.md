@@ -44,7 +44,7 @@ seo:
 colors: bg-light-fg-dark
 styles:
   self:
-    flexDirection: col-reverse
+    flexDirection: row-reverse
 ---
 The Blog is Coming Soon...
 
