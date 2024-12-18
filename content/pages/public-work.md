@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: ''
+      text: NPCC Member
       color: text-dark
     subtitle: NPCC Member
     text: >
