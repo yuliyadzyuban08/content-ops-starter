@@ -79,33 +79,6 @@ sections:
         padding:
           - pt-2
           - pb-2
-  - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: Class
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-    posts:
-      - content/pages/blog/microclimate-assessment.md
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: big-list
-    colors: bg-light-fg-dark
-    hoverEffect: thin-underline
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
 slug: Teaching
 isDraft: false
 seo:
