@@ -6,7 +6,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Urban Heat Management
-        tagline: Feature 1
+        tagline: ''
         subtitle: Increase your reach
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
