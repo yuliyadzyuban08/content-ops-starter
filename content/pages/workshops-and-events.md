@@ -80,12 +80,6 @@ sections:
       September 4, 2024 |Yuliya Dzyuban, Assistant Professor, Graduate Center
       for Planning and the Environment, Pratt Institute 
     actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
       - type: Link
         label: See Tutorials
         url: /
