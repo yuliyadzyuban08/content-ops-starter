@@ -59,7 +59,7 @@ sections:
         altText: ''
         elementId: ''
       - type: ImageBlock
-        altText: Rangle logo
+        altText: ''
         elementId: ''
     elementId: ''
     motion: static
