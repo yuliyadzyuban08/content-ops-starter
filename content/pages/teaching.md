@@ -21,7 +21,7 @@ sections:
     title:
       type: TitleBlock
       text: Microclimate Assessment for Urban Design
-      color: text-dark
+      color: text-light
   - type: GenericSection
     title:
       type: TitleBlock
