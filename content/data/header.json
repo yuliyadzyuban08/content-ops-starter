@@ -33,9 +33,9 @@
         },
         {
             "type": "Link",
-            "label": "Public Work",
+            "label": "Home",
             "altText": "",
-            "url": "/Public Work",
+            "url": "/",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -44,9 +44,9 @@
         },
         {
             "type": "Link",
-            "label": "Home",
+            "label": "Public Work",
             "altText": "",
-            "url": "/",
+            "url": "/Public Work",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
