@@ -1,17 +1,7 @@
 ---
 type: PageLayout
 title: Urban Heat Management
-sections:
-  - type: CarouselSection
-    items: []
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    subtitle: Urban Heat Management
+sections: []
 slug: Urban Heat Management
 isDraft: false
 seo:
