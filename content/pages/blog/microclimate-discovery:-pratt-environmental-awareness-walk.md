@@ -36,7 +36,7 @@ bottomSections:
         elementId: ''
       - type: ImageBlock
         url: /images/b.jpeg
-        altText: Wellster logo
+        altText: ''
         elementId: ''
       - type: ImageBlock
         url: /images/vise-logo.svg
