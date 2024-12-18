@@ -46,22 +46,8 @@ sections:
     subtitle: ''
     text: |
       In this class, we will explore the complex interactions
-       between rising temperatures, urban infrastructure, and
-       public health through the lens of environmental justice.
-       We will examine global examples of city and local-level
-       heat mitigation and adaptation policies, review current
-       strategies in NYC, assess their effectiveness, and develop
-       recommendations.
-       The course goals include understanding the interactions
-       between extreme heat, urban infrastructure, and public
-       health; exploring heat vulnerability and its measurement;
-       critically assessing global heat management examples; and
-      practicing professional communication skills. By the end
-       of this course, students will be able to discuss the social
-       and environmental impacts of heat, describe the metrics
-       of heat vulnerability, analyze case studies of global heat
-       action plans and policies, and develop a heat management
-       plan with verifiable metrics.
+      between rising temperatures, urban infrastructure, and
+      public health through the lens of environmental justice.
     actions: []
     media:
       type: ImageBlock
