@@ -52,7 +52,7 @@ sections:
       - type: Link
         label: See Tutorials
         altText: ''
-        url: /
+        url: /Urban Heat Management
         showIcon: false
         icon: arrowRight
         iconPosition: right
