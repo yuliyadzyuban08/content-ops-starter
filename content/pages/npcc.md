@@ -1,8 +1,8 @@
 ---
 type: PageLayout
-title: Workshops & Events
+title: NPCC Member
 sections: []
-slug: Workshops & Events
+slug: NPCC
 isDraft: false
 seo:
   type: Seo
