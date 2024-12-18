@@ -53,7 +53,7 @@ sections:
         label: Explore More
         altText: ''
         url: /Urban Heat Management
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
