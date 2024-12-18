@@ -2,11 +2,7 @@
 type: PostLayout
 title: 'Microclimate Discovery: Pratt Environmental Awareness Walk'
 date: '2024-04-06'
-excerpt: >-
-  The Microclimate Discovery Environmental Walk, hosted by Yuliya Dzyuban,
-  Melissa Ingaruca Moreno, and Kasturi Salvi during Pratt Climate Action Week in
-  partnership with the Brooklyn Greenway initiative, aimed to focus on climate
-  change's impact on both New York City's residents and ecosystems.
+excerpt: ''
 featuredImage:
   type: ImageBlock
   url: /images/IMG_3076l.jpg
