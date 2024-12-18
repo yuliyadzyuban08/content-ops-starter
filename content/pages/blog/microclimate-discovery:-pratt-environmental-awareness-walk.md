@@ -39,7 +39,7 @@ seo:
 colors: bg-neutral-fg-dark
 styles:
   self:
-    flexDirection: row-reverse
+    flexDirection: row
     margin:
       - mb-5
       - mt-5
