@@ -50,7 +50,7 @@ sections:
       public health through the lens of environmental justice.
     actions:
       - type: Link
-        label: Urban Heat Management
+        label: Explore More
         altText: ''
         url: /Urban Heat Management
         showIcon: false
