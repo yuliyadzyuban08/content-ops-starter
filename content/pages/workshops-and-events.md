@@ -103,7 +103,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: ''
+      text: AIA Urban Microclimate Workshop
       color: text-dark
     subtitle: Be in good company
     text: >
