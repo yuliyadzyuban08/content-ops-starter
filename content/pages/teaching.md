@@ -92,6 +92,8 @@ sections:
         padding:
           - pt-2
           - pb-2
+      subtitle:
+        fontWeight: 700
 slug: Teaching
 isDraft: false
 seo:
