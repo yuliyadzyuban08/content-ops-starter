@@ -56,10 +56,6 @@ sections:
     subtitle: Class Gallery
     images:
       - type: ImageBlock
-        url: /images/vise-logo.svg
-        altText: Vise logo
-        elementId: ''
-      - type: ImageBlock
         url: /images/telus-logo.svg
         altText: Telus logo
         elementId: ''
