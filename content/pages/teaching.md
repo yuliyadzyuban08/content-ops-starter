@@ -82,7 +82,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Class
       color: text-dark
       styles:
         self:
