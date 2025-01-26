@@ -39,6 +39,7 @@ sections:
         justifyContent: center
         padding:
           - pt-3
+          - pb-3
       subtitle:
         textAlign: center
 slug: News and Media
