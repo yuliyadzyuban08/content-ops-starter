@@ -7,7 +7,7 @@ sections:
       - type: FeaturedItem
         title: News and Media
         tagline: Feature 1
-        subtitle: Increase your reach
+        subtitle: ''
         text: >+
           *   The Straits Times Singapore: “LTA, NParks plant a cool idea at bus
           stops islandwide”,
